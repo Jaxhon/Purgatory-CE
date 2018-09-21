@@ -1,0 +1,56 @@
+<root>
+	<thread name="Main" totalTimeMS="15.407006" startTime="644871637366" stopTime="644871676365" totalBlocks="115"> 
+		<block name="D:/jk/workspace/gamesdk_release/Code/Sandbox/EditorQt/QT/QToolTabManager.cpp" totalTimeMS="15.280191" startTime="644871637669" stopTime="644871676347" args=""> 
+			<block name="CTabPaneManager::LoadLayoutFromFile" totalTimeMS="15.186167" startTime="644871637906" stopTime="644871676346" args="C:/Users/jopam/AppData/Roaming/Crytek/CRYENGINE/Keybinds.json"> 
+				<block name="D:/jk/workspace/gamesdk_release/Code/Sandbox/EditorQt/QT/QToolTabManager.cpp" totalTimeMS="14.921475" startTime="644871638351" stopTime="644871676121" args=""> 
+					<block name="System: Update" totalTimeMS="0.496197" startTime="644871639146" stopTime="644871640402" args=""> 
+						<block name="CSystem::Update" totalTimeMS="0.495407" startTime="644871639148" stopTime="644871640402" args=""> 
+							<block name="SysUpdate:PeekMessageW" totalTimeMS="0.203457" startTime="644871639250" stopTime="644871639765" args=""> 
+							</block>
+							<block name="CNetwork::SyncWithGame" totalTimeMS="0.190815" startTime="644871639903" stopTime="644871640386" args=""> 
+								<block name="SyncWithGame() lock unknown" totalTimeMS="0.189630" startTime="644871639906" stopTime="644871640386" args=""> 
+									<block name="CNetwork::UpdateLoop" totalTimeMS="0.185679" startTime="644871639914" stopTime="644871640384" args=""> 
+										<block name="Network DoMainTick" totalTimeMS="0.182914" startTime="644871639921" stopTime="644871640384" args=""> 
+											<block name="CNetwork::DoMainTick" totalTimeMS="0.177778" startTime="644871639923" stopTime="644871640373" args=""> 
+												<block name="Network Tick Channels" totalTimeMS="0.106272" startTime="644871639932" stopTime="644871640201" args=""> 
+												</block>
+											</block>
+										</block>
+									</block>
+								</block>
+							</block>
+						</block>
+					</block>
+					<block name="D:/jk/workspace/gamesdk_release/Code/Sandbox/EditorQt/ViewManager.cpp" totalTimeMS="0.158025" startTime="644871640628" stopTime="644871641028" args=""> 
+						<block name="CRenderViewport::Update" totalTimeMS="0.156839" startTime="644871640631" stopTime="644871641028" args=""> 
+						</block>
+					</block>
+				</block>
+			</block>
+		</block>
+	</thread>
+	<thread name="RenderThread" totalTimeMS="15.407006" startTime="644871637366" stopTime="644871676365" totalBlocks="30"> 
+		<block name="SRenderThread: eRC_BeginFrame" totalTimeMS="0.120099" startTime="644871641128" stopTime="644871641432" args=""> 
+			<block name="Renderer:RT_BeginFrame" totalTimeMS="0.118123" startTime="644871641132" stopTime="644871641431" args=""> 
+			</block>
+		</block>
+		<block name="SRenderThread: eRC_LambdaCall" totalTimeMS="0.129580" startTime="644871641458" stopTime="644871641786" args=""> 
+			<block name="CD3D9Renderer::RenderAux lambda" totalTimeMS="0.128000" startTime="644871641460" stopTime="644871641784" args=""> 
+			</block>
+		</block>
+		<block name="SRenderThread: eRC_EndFrame" totalTimeMS="1.923160" startTime="644871641787" stopTime="644871646655" args=""> 
+			<block name="CD3D9Renderer::RT_EndFrame" totalTimeMS="1.921975" startTime="644871641789" stopTime="644871646654" args=""> 
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="11.736489" startTime="644871646657" stopTime="644871676365" args=""> 
+			<block name="SRenderThread::WaitFlushCond" totalTimeMS="11.735699" startTime="644871646659" stopTime="644871676365" args=""> 
+			</block>
+		</block>
+	</thread>
+	<thread name="AudioMainThread" totalTimeMS="15.407006" startTime="644871637366" stopTime="644871676365" totalBlocks="5"> 
+		<block name="Audio: Internal Update" totalTimeMS="2.804542" startTime="644871669266" stopTime="644871676365" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="2.804542" startTime="644871669266" stopTime="644871676365" args=""> 
+			</block>
+		</block>
+	</thread>
+</root>

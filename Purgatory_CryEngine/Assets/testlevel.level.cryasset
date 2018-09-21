@@ -1,0 +1,38 @@
+<AssetMetadata version="0" type="Level" guid="fa2d1a3e-7a1d-566b-c18d-88eeb2c9d001" source="">
+ <Files>
+  <File path="TestLevel/TestLevel.level"/>
+ </Files>
+ <Dependencies>
+  <Path>./%engine%/config/defaultscripts/compressionpolicy.xml</Path>
+  <Path>./%engine%/engineassets/icons/averagememoryusage.dds</Path>
+  <Path>./%engine%/engineassets/icons/highmemoryusage.dds</Path>
+  <Path>./%engine%/engineassets/icons/livepreview.dds</Path>
+  <Path>./%engine%/engineassets/icons/lowmemoryusage.dds</Path>
+  <Path>./%engine%/engineassets/textures/grey.dds</Path>
+  <Path>./animations/motusanims/rifleanims/rifleaim_idle_3p.caf</Path>
+  <Path>./animations/motusanims/rifleanims/riflewalkaim_bwd_3p.caf</Path>
+  <Path>./animations/motusanims/rifleanims/riflewalkaim_fwd_3p.caf</Path>
+  <Path>./animations/motusanims/rifleanims/steprifleaimrotate_lft_90_3p.caf</Path>
+  <Path>./animations/motusanims/rifleanims/steprifleaimrotate_rgt_90_3p.caf</Path>
+  <Path>./animations/motusanims/rifleanims/walkcrossrifleaim_bck_lft_3p.caf</Path>
+  <Path>./animations/motusanims/rifleanims/walkcrossrifleaim_fwd_lft_3p.caf</Path>
+  <Path>./animations/motusanims/rifleanims/walkstraferifleaim_lft_3p.caf</Path>
+  <Path>./animations/motusanims/rifleanims/walkstraferifleaim_rgt_3p.caf</Path>
+  <Path>./d:/game_projects/purgatory/purgatory_cryengine/assets/libs/environmentpresets/testlevel.xml</Path>
+  <Path>./d:/game_projects/purgatory/purgatory_cryengine/user/meshimporter/tmp_meshimporter_y4wym5/tmp_meshimporter_c21328.cgf</Path>
+  <Path>./d:/game_projects/purgatory/purgatory_cryengine/user/meshimporter/tmp_meshimporter_y4wym5/tmp_meshimporter_j21328.cgf</Path>
+  <Path>./d:/game_projects/purgatory/purgatory_cryengine/user/meshimporter/tmp_meshimporter_y4wym5/tmp_meshimporter_k21328.cgf</Path>
+  <Path>./d:/game_projects/purgatory/purgatory_cryengine/user/meshimporter/tmp_meshimporter_y4wym5/tmp_meshimporter_z21328.cgf</Path>
+  <Path>./libs/environmentpresets/testlevel.xml</Path>
+  <Path>./materials/bullet.mtl</Path>
+  <Path>./objects/characters/samplecharacter/mcg_ddna.dds</Path>
+  <Path>./objects/characters/samplecharacter/mcg_diff.dds</Path>
+  <Path>./objects/characters/samplecharacter/mcg_spec.dds</Path>
+  <Path>./objects/characters/samplecharacter/motusbody.skin</Path>
+  <Path>./objects/characters/samplecharacter/skelproxy.chr</Path>
+  <Path>./objects/characters/samplecharacter/thirdperson.cdf</Path>
+  <Path>./objects/weapons/sampleweapon/defaultweapon.cgf</Path>
+  <Path>./scripts/ai/factions.xml</Path>
+  <Path>./scripts/network/compressionpolicy.xml</Path>
+ </Dependencies>
+</AssetMetadata>
