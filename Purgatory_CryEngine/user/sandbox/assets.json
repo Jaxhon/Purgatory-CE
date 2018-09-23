@@ -3,9 +3,9 @@
 	"assets": [
 		{
 			"type": "Xml",
-			"guid": "49324ef9-cff0-8ba9-1d10-0d7b59f5a284",
+			"guid": "248e3333-a0b7-840f-832c-1a09e5697843",
 			"name": "compressionpolicy",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/config/defaultscripts/CompressionPolicy.xml" ],
 			"source": "",
 			"metadata": "%engine%/config/defaultscripts/compressionpolicy.xml.cryasset",
@@ -14,9 +14,9 @@
 		},
 		{
 			"type": "Xml",
-			"guid": "02990ac1-0682-06ff-d21a-2bff3a57d626",
+			"guid": "23fece5f-70b3-8a49-7e47-046bba31db90",
 			"name": "scheduler",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/config/defaultscripts/Scheduler.xml" ],
 			"source": "",
 			"metadata": "%engine%/config/defaultscripts/scheduler.xml.cryasset",
@@ -25,9 +25,9 @@
 		},
 		{
 			"type": "Xml",
-			"guid": "90265db2-de14-52b4-27a7-dc8cc0b44bef",
+			"guid": "2da6a363-4ce7-47f8-b217-45e89a6bef8c",
 			"name": "hdd_cache",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/config/HDD_cache.xml" ],
 			"source": "",
 			"metadata": "%engine%/config/hdd_cache.xml.cryasset",
@@ -36,9 +36,9 @@
 		},
 		{
 			"type": "Xml",
-			"guid": "d7fbfbd0-43ef-8747-a72e-0d4413180a1e",
+			"guid": "9172b0e9-03a7-551a-714d-c7ab6929e615",
 			"name": "levelrotation",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/config/levelrotation.xml" ],
 			"source": "",
 			"metadata": "%engine%/config/levelrotation.xml.cryasset",
@@ -47,9 +47,9 @@
 		},
 		{
 			"type": "Xml",
-			"guid": "870ad85f-77e6-3479-480a-4a6d86b23983",
+			"guid": "3e7124bd-b4aa-6d46-1776-8b3e990275dd",
 			"name": "perfhud_pc",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/config/PerfHud_PC.xml" ],
 			"source": "",
 			"metadata": "%engine%/config/perfhud_pc.xml.cryasset",
@@ -58,9 +58,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "b03d28bb-c2aa-f0b9-8e81-c46fb4ea9594",
+			"guid": "dddab758-618d-bebd-3dd1-d349b6b3a84a",
 			"name": "watervolume",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/animated/WaterVolume.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/animated/watervolume.dds.cryasset",
@@ -73,9 +73,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "ca65bcda-8a4c-5610-f85b-ca54c4830fa5",
+			"guid": "7ab1163f-fc6e-a79b-c3b3-350329dfb5fd",
 			"name": "hit",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/codecoverage/hit.dds" ],
 			"source": "%engine%/engineassets/codecoverage/hit.tif",
 			"metadata": "%engine%/engineassets/codecoverage/hit.dds.cryasset",
@@ -88,9 +88,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "0bfd1c5d-8d62-1c10-3ffb-36fa0f8ec28d",
+			"guid": "ff802013-67fb-78de-905f-b1bc7e82cc62",
 			"name": "pbar",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/codecoverage/pbar.dds" ],
 			"source": "%engine%/engineassets/codecoverage/pbar.tif",
 			"metadata": "%engine%/engineassets/codecoverage/pbar.dds.cryasset",
@@ -103,9 +103,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "2aaece37-a6e5-3dac-7b1b-a5166f5e3a9e",
+			"guid": "ef57379a-6ae0-b78e-80d0-2dc60fadceb7",
 			"name": "unexpected",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/codecoverage/unexpected.dds",
 				"%engine%/engineassets/codecoverage/unexpected.dds.1",
@@ -122,9 +122,9 @@
 		},
 		{
 			"type": "Xml",
-			"guid": "e44d216a-3b3c-6a70-b51b-016853739e5f",
+			"guid": "9bfb5be1-5802-7731-7bea-0541185ab26b",
 			"name": "defaulttextures",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/defaulttextures.xml" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/defaulttextures.xml.cryasset",
@@ -133,9 +133,9 @@
 		},
 		{
 			"type": "GeometryCache",
-			"guid": "c984b9cc-c6b9-5ee6-6b38-3521aa3dc6ce",
+			"guid": "21967604-a087-8154-e307-f706a489adfe",
 			"name": "default",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/geomcaches/default.cax" ],
 			"source": "%engine%/engineassets/geomcaches/default.abc",
 			"metadata": "%engine%/engineassets/geomcaches/default.cax.cryasset",
@@ -144,9 +144,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "0c0b4625-e3a2-18df-1c09-776150501d42",
+			"guid": "2e6e98de-796d-3563-a73e-e34bc633782c",
 			"name": "averagememoryusage",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/icons/AverageMemoryUsage.dds" ],
 			"source": "%engine%/engineassets/icons/AverageMemoryUsage.TIF",
 			"metadata": "%engine%/engineassets/icons/averagememoryusage.dds.cryasset",
@@ -159,9 +159,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "74469b77-ecdf-d679-4bc7-9f4be1eef9e0",
+			"guid": "4b1e2c06-2f63-478b-cfd1-b4795fb3b500",
 			"name": "highmemoryusage",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/icons/HighMemoryUsage.dds" ],
 			"source": "%engine%/engineassets/icons/HighMemoryUsage.TIF",
 			"metadata": "%engine%/engineassets/icons/highmemoryusage.dds.cryasset",
@@ -174,9 +174,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "3b0968a7-02e7-8bb4-9daf-88e35b3ea0d7",
+			"guid": "464236f4-a24c-bc6f-1f9b-f5897b2b5881",
 			"name": "levelshadercachemiss",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/icons/LevelShaderCacheMiss.dds" ],
 			"source": "%engine%/engineassets/icons/LevelShaderCacheMiss.tif",
 			"metadata": "%engine%/engineassets/icons/levelshadercachemiss.dds.cryasset",
@@ -189,9 +189,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "4d4da29f-7070-0d16-6ba5-d7d0e179b95e",
+			"guid": "e2f53810-86b4-8bb5-8bf5-0910e25aecfc",
 			"name": "livepreview",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/icons/LivePreview.dds" ],
 			"source": "%engine%/engineassets/icons/LivePreview.TIF",
 			"metadata": "%engine%/engineassets/icons/livepreview.dds.cryasset",
@@ -204,9 +204,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "f1695fbb-c73e-117b-719c-8badcc1eb8cd",
+			"guid": "034d6c84-ef65-f9aa-4fcf-8f8fb78d0215",
 			"name": "lowmemoryusage",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/icons/LowMemoryUsage.dds" ],
 			"source": "%engine%/engineassets/icons/LowMemoryUsage.TIF",
 			"metadata": "%engine%/engineassets/icons/lowmemoryusage.dds.cryasset",
@@ -219,9 +219,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "96149a4f-94da-647b-6228-64c70bf1a064",
+			"guid": "4257fd3e-5e0f-7b12-5bdf-c940dad7dcc3",
 			"name": "navigationprocessing",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/icons/NavigationProcessing.dds" ],
 			"source": "%engine%/engineassets/icons/NavigationProcessing.tif",
 			"metadata": "%engine%/engineassets/icons/navigationprocessing.dds.cryasset",
@@ -234,9 +234,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "2d168245-f6ed-c3e0-5739-a965530e7ff5",
+			"guid": "d263561c-d8db-6308-271c-ce0f382175c9",
 			"name": "shadercompiling",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/icons/ShaderCompiling.dds" ],
 			"source": "%engine%/engineassets/icons/ShaderCompiling.tif",
 			"metadata": "%engine%/engineassets/icons/shadercompiling.dds.cryasset",
@@ -249,9 +249,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "b359853a-9a9a-f501-e425-edf96a54c063",
+			"guid": "020649cb-7ee4-e85b-99e1-8ab23c9cb94c",
 			"name": "streaming",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/icons/Streaming.dds" ],
 			"source": "%engine%/engineassets/icons/Streaming.tif",
 			"metadata": "%engine%/engineassets/icons/streaming.dds.cryasset",
@@ -264,9 +264,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "9b94e681-fc7b-1031-516b-71ed18b39a77",
+			"guid": "74711dd2-75fa-ab24-1241-c247cfc714dd",
 			"name": "streamingterrain",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/icons/StreamingTerrain.dds" ],
 			"source": "%engine%/engineassets/icons/StreamingTerrain.tif",
 			"metadata": "%engine%/engineassets/icons/streamingterrain.dds.cryasset",
@@ -279,9 +279,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "b2e0bf91-986b-231e-8fa7-c78b382d5f0a",
+			"guid": "06f76428-979f-e7d2-f4e1-0a20d0cd203f",
 			"name": "billboard_default",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/materials/billboard_default.mtl" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/materials/billboard_default.mtl.cryasset",
@@ -293,9 +293,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "8389e31a-d4f7-6172-3bd1-c1eebf22a7ef",
+			"guid": "454f4a07-e397-afac-a8be-f6f93401e2c5",
 			"name": "fogvolumebox",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/materials/fog/FogVolumeBox.mtl" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/materials/fog/fogvolumebox.mtl.cryasset",
@@ -307,9 +307,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "a4df0de1-4626-ea2d-dc2c-e8e59a0d1d97",
+			"guid": "328f0e3b-f15f-06cf-6bf6-bd0db271c438",
 			"name": "fogvolumeellipsoid",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/materials/fog/FogVolumeEllipsoid.mtl" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/materials/fog/fogvolumeellipsoid.mtl.cryasset",
@@ -321,9 +321,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "650ad33a-ae82-e1d7-6af8-ffba115fd1cb",
+			"guid": "e1260632-5378-97b1-d555-fdbb38aab68f",
 			"name": "oceaninto",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/materials/fog/OceanInto.mtl" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/materials/fog/oceaninto.mtl.cryasset",
@@ -335,9 +335,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "79ae3a54-73b5-707f-a35c-36fc687a0ac1",
+			"guid": "80fe902c-bd9d-1f48-a070-ce5f345c3425",
 			"name": "oceanintolowspec",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/materials/fog/OceanIntoLowSpec.mtl" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/materials/fog/oceanintolowspec.mtl.cryasset",
@@ -349,9 +349,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "b395d8a6-b560-27ab-06cf-dbd0546f82eb",
+			"guid": "3f1e6dd4-4e35-ae71-fd90-97215e3a93ed",
 			"name": "oceanoutof",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/materials/fog/OceanOutof.mtl" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/materials/fog/oceanoutof.mtl.cryasset",
@@ -363,9 +363,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "95297a54-6531-6c4b-7b75-00d786f15014",
+			"guid": "8c033ea4-07df-4376-45cd-6bfbf26bb94d",
 			"name": "oceanoutoflowspec",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/materials/fog/OceanOutofLowSpec.mtl" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/materials/fog/oceanoutoflowspec.mtl.cryasset",
@@ -377,9 +377,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "d5a32ae9-d973-e08e-f3e2-9d906bdbd4f9",
+			"guid": "123c8c9c-0437-be11-cbee-7c334120e3f9",
 			"name": "waterfogvolumeinto",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/materials/fog/WaterFogVolumeInto.mtl" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/materials/fog/waterfogvolumeinto.mtl.cryasset",
@@ -391,9 +391,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "b33327a4-dc2c-c4d7-18c7-5b8a86facdd1",
+			"guid": "2fa4d330-616a-9c8d-0872-84203a7b0ea9",
 			"name": "waterfogvolumeoutof",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/materials/fog/WaterFogVolumeOutof.mtl" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/materials/fog/waterfogvolumeoutof.mtl.cryasset",
@@ -405,9 +405,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "862e1061-7bea-442d-c46e-931715a36805",
+			"guid": "8721d212-cda6-5b90-9cb6-7df491ce287e",
 			"name": "lens_optics",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/materials/lens_optics.mtl" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/materials/lens_optics.mtl.cryasset",
@@ -421,9 +421,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "69c15633-812c-78fb-45fb-feb4615c3fe9",
+			"guid": "29ed6022-76d6-777d-01db-28f33989f24f",
 			"name": "material_default",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/materials/material_default.mtl" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/materials/material_default.mtl.cryasset",
@@ -437,9 +437,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "b43c92a3-2c28-cfcc-6a9a-d1e948cf1100",
+			"guid": "54a3521e-fe55-20e6-a772-594ee6e71852",
 			"name": "material_layers_default",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/materials/material_layers_default.mtl" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/materials/material_layers_default.mtl.cryasset",
@@ -456,9 +456,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "c514b99c-c20a-1e48-b502-3bd7559da5b6",
+			"guid": "fe9c5bcc-bf0e-2034-1883-3868a938aa37",
 			"name": "material_terrain_default",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/materials/material_terrain_default.mtl" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/materials/material_terrain_default.mtl.cryasset",
@@ -475,9 +475,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "5afb1504-45c2-a0ed-d07d-629085f3f692",
+			"guid": "f4eb99dd-6aa0-b245-dd13-7ba38ba8aa57",
 			"name": "mi_previewvertexalpha",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/materials/meshimporter/MI_PreviewVertexAlpha.mtl"
 			],
@@ -500,9 +500,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "e5020b73-3f87-26f7-03cb-f91daeaf50f8",
+			"guid": "2b30e75d-8b54-a1f5-6901-21dae4173e2c",
 			"name": "mi_previewvertexcolor",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/materials/meshimporter/MI_PreviewVertexColor.mtl"
 			],
@@ -521,9 +521,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "50c43313-6783-fda7-bff6-3bac9dec387d",
+			"guid": "3c93d6f7-68d1-02d2-ae87-760af147417a",
 			"name": "physproxytoobig",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/materials/PhysProxyTooBig.mtl" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/materials/physproxytoobig.mtl.cryasset",
@@ -540,9 +540,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "6090e59b-af1d-7d63-1ab5-5f1034e9e6bd",
+			"guid": "72e1adda-86ab-bc3d-b00b-44fb4aacdcca",
 			"name": "sky",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/materials/sky/sky.mtl" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/materials/sky/sky.mtl.cryasset",
@@ -559,9 +559,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "edf9b030-366d-72cb-cdbb-4ffb74174808",
+			"guid": "dc744bfe-fd9f-9067-d9f6-d79e01afa17b",
 			"name": "ocean_default",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/materials/water/ocean_default.mtl" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/materials/water/ocean_default.mtl.cryasset",
@@ -573,9 +573,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "790bf12c-d37f-6a8d-c64d-a9d0c011a8da",
+			"guid": "ae63a965-202b-7c4b-7119-34edd2f1f022",
 			"name": "wateroceanbottom",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/materials/water/WaterOceanBottom.mtl" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/materials/water/wateroceanbottom.mtl.cryasset",
@@ -587,9 +587,9 @@
 		},
 		{
 			"type": "Mesh",
-			"guid": "79626cd0-3fba-d042-8092-a0b7b3d46888",
+			"guid": "8cc6becd-e34f-3319-d450-cf8c0b06dcad",
 			"name": "default",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/objects/Default.cgf" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/objects/default.cgf.cryasset",
@@ -605,9 +605,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "b1badf92-af26-e5be-6739-c417b16c7e8a",
+			"guid": "7c36310c-7f88-2787-dd0c-73e8460264a5",
 			"name": "editorprimitive",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/objects/editorprimitive.mtl" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/objects/editorprimitive.mtl.cryasset",
@@ -621,9 +621,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "c33f60b1-3279-f3fd-ab46-ac30fe709794",
+			"guid": "c61c10cb-b256-a774-37f1-2c13948e7283",
 			"name": "helper",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/objects/helper.mtl" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/objects/helper.mtl.cryasset",
@@ -640,9 +640,9 @@
 		},
 		{
 			"type": "Mesh",
-			"guid": "09f9b8c1-aee8-f458-9317-50a21b989e92",
+			"guid": "643a1a91-1a38-b69c-496c-3a6175c1f806",
 			"name": "primitive_box",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/objects/primitive_box.cgf" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/objects/primitive_box.cgf.cryasset",
@@ -661,9 +661,9 @@
 		},
 		{
 			"type": "Mesh",
-			"guid": "f52e2dee-d52f-9223-efc7-2d7236fdba20",
+			"guid": "c57e3dfc-32d6-782b-b5f5-fbeabaece7fa",
 			"name": "primitive_cube",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/objects/primitive_cube.cgf" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/objects/primitive_cube.cgf.cryasset",
@@ -682,9 +682,9 @@
 		},
 		{
 			"type": "Mesh",
-			"guid": "dd7941f0-8e95-07bd-11b3-3f9ca08cfbcc",
+			"guid": "45f6ba25-3bdd-16a2-ab28-203bed922c79",
 			"name": "primitive_cylinder",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/objects/primitive_cylinder.cgf" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/objects/primitive_cylinder.cgf.cryasset",
@@ -703,9 +703,9 @@
 		},
 		{
 			"type": "Mesh",
-			"guid": "be225816-bfd0-accd-2b97-61673d333031",
+			"guid": "e7636faf-8153-5ab8-0294-b5663ddb722d",
 			"name": "primitive_plane",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/objects/primitive_plane.cgf" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/objects/primitive_plane.cgf.cryasset",
@@ -724,9 +724,9 @@
 		},
 		{
 			"type": "Mesh",
-			"guid": "b041bee5-efe0-b167-73da-a842c20ff049",
+			"guid": "a8243d73-5700-f38d-fa05-7b3749206c33",
 			"name": "primitive_pyramid",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/objects/primitive_pyramid.cgf" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/objects/primitive_pyramid.cgf.cryasset",
@@ -745,9 +745,9 @@
 		},
 		{
 			"type": "Mesh",
-			"guid": "c4ac15af-91cb-bcf4-02a3-24cd487f636b",
+			"guid": "ebd97baa-0da2-445f-0aa5-8f5027bed27b",
 			"name": "primitive_sphere",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/objects/primitive_sphere.cgf" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/objects/primitive_sphere.cgf.cryasset",
@@ -766,9 +766,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "1cd24633-ce41-0239-59aa-c00f734339a6",
+			"guid": "fb1ea0db-af24-874b-0077-4aaa6b2aa01f",
 			"name": "midgray",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/production/MidGray.dds",
 				"%engine%/engineassets/production/MidGray.dds.1",
@@ -785,9 +785,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "bbcddb9c-b615-d14b-bfec-9542eb0db3b6",
+			"guid": "d61c2b92-02b8-ee13-9f95-1cbbcfe11e74",
 			"name": "tangentreference_ddn",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/production/TangentReference_ddn.dds",
 				"%engine%/engineassets/production/TangentReference_ddn.dds.1",
@@ -806,9 +806,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "c2807f44-767e-be9b-decb-96750daf14ee",
+			"guid": "07808f4a-a387-482e-c6aa-b942e33ec06c",
 			"name": "uv",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/production/UV.dds",
 				"%engine%/engineassets/production/UV.dds.1",
@@ -827,9 +827,9 @@
 		},
 		{
 			"type": "Xml",
-			"guid": "78eacc96-9036-0a92-bcd2-3b9f54770952",
+			"guid": "9939c1d3-e672-be06-2258-b591131ef7a5",
 			"name": "raintextures",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/raintextures.xml" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/raintextures.xml.cryasset",
@@ -838,9 +838,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "8e21b0c4-6ee0-cf32-5f40-1a8f1f9bab0e",
+			"guid": "bb84cab5-8453-42ba-9fb8-f2a1bc915bc5",
 			"name": "areatex",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/screenspace/AreaTex.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/screenspace/areatex.dds.cryasset",
@@ -853,9 +853,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "e5a75198-8bb3-9bc8-f273-8dbeeca3e486",
+			"guid": "6c2f5a44-983e-a970-2202-6ad88b00d456",
 			"name": "bokeh_love",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/screenspace/bokeh_love.dds" ],
 			"source": "%engine%/engineassets/screenspace/bokeh_love.TIF",
 			"metadata": "%engine%/engineassets/screenspace/bokeh_love.dds.cryasset",
@@ -868,9 +868,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "72f00dcb-25b6-77dd-57b9-2bb576909e87",
+			"guid": "cf3dc95c-9a15-b99b-2467-9ab79d7c5593",
 			"name": "bokeh_music",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/screenspace/bokeh_music.dds" ],
 			"source": "%engine%/engineassets/screenspace/bokeh_music.TIF",
 			"metadata": "%engine%/engineassets/screenspace/bokeh_music.dds.cryasset",
@@ -883,9 +883,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "3ee1d526-00a9-7af4-3c1e-0d9710df730a",
+			"guid": "eb788ced-3dcb-9235-c8ee-827949c031e6",
 			"name": "bokeh_pentagon",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/screenspace/bokeh_pentagon.dds" ],
 			"source": "%engine%/engineassets/screenspace/bokeh_pentagon.TIF",
 			"metadata": "%engine%/engineassets/screenspace/bokeh_pentagon.dds.cryasset",
@@ -898,9 +898,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "cb3a0532-ce19-0424-aee1-21287a0a663d",
+			"guid": "5e8dd8ad-3e76-b4e0-c3e3-7f3c0691380d",
 			"name": "bokeh_spherical",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/screenspace/bokeh_spherical.dds" ],
 			"source": "%engine%/engineassets/screenspace/bokeh_spherical.TIF",
 			"metadata": "%engine%/engineassets/screenspace/bokeh_spherical.dds.cryasset",
@@ -913,9 +913,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "2d2ccd47-f774-8956-0818-e900c7dda56c",
+			"guid": "3c8160e3-7d7f-0fb8-3048-0d8989a67adf",
 			"name": "bokeh_square",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/screenspace/bokeh_square.dds" ],
 			"source": "%engine%/engineassets/screenspace/bokeh_square.TIF",
 			"metadata": "%engine%/engineassets/screenspace/bokeh_square.dds.cryasset",
@@ -928,9 +928,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "0a0ce909-d635-3af0-f9c3-ced504eaccb7",
+			"guid": "c8123acd-93cf-c3cc-6a4d-1331a64c5353",
 			"name": "bokeh_star",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/screenspace/bokeh_star.dds" ],
 			"source": "%engine%/engineassets/screenspace/bokeh_star.TIF",
 			"metadata": "%engine%/engineassets/screenspace/bokeh_star.dds.cryasset",
@@ -943,9 +943,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "69775413-99b7-ba6b-891a-7832c43746be",
+			"guid": "c580ced8-b006-1725-136d-4f9551535ef5",
 			"name": "film_grain",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/screenspace/film_grain.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/screenspace/film_grain.dds.cryasset",
@@ -958,9 +958,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "5f1df5c5-535f-4101-bfc7-89183c9531a8",
+			"guid": "2c3f1aa0-2b4d-9bfd-a66a-6a334c6e856b",
 			"name": "grain_bayer_mul",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/screenspace/grain_bayer_mul.dds" ],
 			"source": "%engine%/engineassets/screenspace/grain_bayer_mul.tif",
 			"metadata": "%engine%/engineassets/screenspace/grain_bayer_mul.dds.cryasset",
@@ -973,9 +973,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "0afd28b5-d7a5-331c-a86b-29a18015ed9b",
+			"guid": "e62142d3-9db8-9b30-ede6-45533c610aea",
 			"name": "normalsfitting",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/screenspace/NormalsFitting.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/screenspace/normalsfitting.dds.cryasset",
@@ -988,9 +988,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "9ce4c41b-5bb5-0508-c2de-77643126ab08",
+			"guid": "9b56e774-c706-1eba-bed9-78f802c9e348",
 			"name": "pointsonsphere4x4",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/screenspace/PointsOnSphere4x4.dds" ],
 			"source": "%engine%/engineassets/screenspace/PointsOnSphere4x4.tif",
 			"metadata": "%engine%/engineassets/screenspace/pointsonsphere4x4.dds.cryasset",
@@ -1003,9 +1003,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "9b7fb4b1-256b-e84e-d295-42998083b624",
+			"guid": "40ecbcc2-4af9-81bf-d592-086935a4ce79",
 			"name": "pointsonspherevo4x4",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/screenspace/PointsOnSphereVO4x4.dds" ],
 			"source": "%engine%/engineassets/screenspace/PointsOnSphereVO4x4.tif",
 			"metadata": "%engine%/engineassets/screenspace/pointsonspherevo4x4.dds.cryasset",
@@ -1018,9 +1018,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "4eefc51b-15d4-49c9-022b-ffe087520097",
+			"guid": "b1cbdb0c-9000-7648-3932-6412ed79174d",
 			"name": "searchtex",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/screenspace/SearchTex.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/screenspace/searchtex.dds.cryasset",
@@ -1033,9 +1033,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "00dbb9fa-1d14-d261-fee5-107187071dba",
+			"guid": "df7522c4-4e8a-b0b1-d337-39d308c5f3e3",
 			"name": "cloud_mie_phase_function",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/shading/cloud_mie_phase_function.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/shading/cloud_mie_phase_function.dds.cryasset",
@@ -1048,9 +1048,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "c1c5687e-744e-bb8a-eecf-ded6b5714e57",
+			"guid": "eaaefb53-38bf-fa1d-5944-e202d200c371",
 			"name": "cook_d_sampler_g16r16f",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/shading/cook_d_sampler_G16R16F.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/shading/cook_d_sampler_g16r16f.dds.cryasset",
@@ -1063,9 +1063,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "8cd4b772-551f-53fa-1673-a216c6cfc4eb",
+			"guid": "7eec63cb-0c1b-9510-8e95-0a49553789f1",
 			"name": "defaultprobe_cm",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/shading/defaultProbe_cm.dds",
 				"%engine%/engineassets/shading/defaultProbe_cm.dds.1",
@@ -1084,9 +1084,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "c02ed4ae-8cf9-729b-85ce-4977146d5e0f",
+			"guid": "70b3be81-8804-0d19-67c5-8c91ee28dbc2",
 			"name": "defaultprobe_cm_diff",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/shading/defaultProbe_cm_diff.dds" ],
 			"source": "%engine%/engineassets/shading/defaultProbe_cm.tif",
 			"metadata": "%engine%/engineassets/shading/defaultprobe_cm_diff.dds.cryasset",
@@ -1099,9 +1099,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "ad8e192f-e1a9-80eb-45ca-cb0ac0ebdcfe",
+			"guid": "4804e426-3165-c8cc-2188-4d2a4c41c2b4",
 			"name": "environmentbrdf",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/shading/environmentBRDF.dds" ],
 			"source": "%engine%/engineassets/shading/environmentBRDF.tif",
 			"metadata": "%engine%/engineassets/shading/environmentbrdf.dds.cryasset",
@@ -1114,9 +1114,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "61e8cc86-b3be-de30-d38a-234a70f1b79c",
+			"guid": "d957329a-a919-ebda-400b-7b4bc52d08a5",
 			"name": "generic_reflections",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/shading/generic_reflections.dds",
 				"%engine%/engineassets/shading/generic_reflections.dds.1",
@@ -1135,9 +1135,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "99e69c1c-d06d-268e-2cd2-a67adcf6d4b0",
+			"guid": "37f63d35-27de-581a-afa6-d6e508bb53a1",
 			"name": "generic_reflections_diff",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/shading/generic_reflections_diff.dds" ],
 			"source": "%engine%/engineassets/shading/generic_reflections.tif",
 			"metadata": "%engine%/engineassets/shading/generic_reflections_diff.dds.cryasset",
@@ -1150,9 +1150,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "56669da3-e945-19aa-a4d4-61ade69e760c",
+			"guid": "62cd8b15-6e78-2afe-c5d5-976c69370a6b",
 			"name": "layer_effect_anim_function",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/shading/layer_effect_anim_function.dds" ],
 			"source": "%engine%/engineassets/shading/layer_effect_anim_function.tif",
 			"metadata": "%engine%/engineassets/shading/layer_effect_anim_function.dds.cryasset",
@@ -1165,9 +1165,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "64992ae9-213f-ddcd-b1d8-e42ce535f81e",
+			"guid": "f0a8d45e-0254-438b-acdb-e94898a503a2",
 			"name": "nanosuit_mask",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/shading/nanosuit_mask.dds",
 				"%engine%/engineassets/shading/nanosuit_mask.dds.1",
@@ -1184,9 +1184,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "1bfd8a88-9223-c50e-b43d-8386f3f95da6",
+			"guid": "811667b4-fb28-9774-52ad-5b2da68797a7",
 			"name": "nanosuit_modes_grads",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/shading/nanosuit_modes_grads.dds" ],
 			"source": "%engine%/engineassets/shading/nanosuit_modes_grads.TIF",
 			"metadata": "%engine%/engineassets/shading/nanosuit_modes_grads.dds.cryasset",
@@ -1199,9 +1199,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "c9778231-1793-08b1-4709-87a451be0dc4",
+			"guid": "5df9de1d-f4aa-706a-2057-f567eeb20efc",
 			"name": "sonarvisiongradient",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/shading/SonarVisionGradient.dds" ],
 			"source": "%engine%/engineassets/shading/SonarVisionGradient.TIF",
 			"metadata": "%engine%/engineassets/shading/sonarvisiongradient.dds.cryasset",
@@ -1214,9 +1214,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "07f1f490-4e1d-0a77-867f-21b9abff9382",
+			"guid": "143dfdda-0568-462a-a06f-74a44bbf389e",
 			"name": "thermalvisiongradient",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/shading/ThermalVisionGradient.dds" ],
 			"source": "%engine%/engineassets/shading/ThermalVisionGradient.tif",
 			"metadata": "%engine%/engineassets/shading/thermalvisiongradient.dds.cryasset",
@@ -1229,9 +1229,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "e1eb568b-0dbd-9ccb-8ea3-24f2ccbca2f0",
+			"guid": "3ece046c-4781-77e9-02ba-e5b275cc07c3",
 			"name": "thermalvisiongradient02",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/shading/ThermalVisionGradient02.dds" ],
 			"source": "%engine%/engineassets/shading/ThermalVisionGradient02.TIF",
 			"metadata": "%engine%/engineassets/shading/thermalvisiongradient02.dds.cryasset",
@@ -1244,9 +1244,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "6484f821-705d-2ace-5103-aafd3e24cb94",
+			"guid": "8cf0adb2-5104-52ab-e06f-018af34e0017",
 			"name": "vignetting",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/shading/vignetting.dds" ],
 			"source": "%engine%/engineassets/shading/vignetting.TIF",
 			"metadata": "%engine%/engineassets/shading/vignetting.dds.cryasset",
@@ -1259,9 +1259,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "213d24c6-2d37-5e9c-bf72-18edc10111ab",
+			"guid": "5779ca66-f980-ca01-022f-f72f40a276cc",
 			"name": "waterfoam",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/shading/WaterFoam.dds",
 				"%engine%/engineassets/shading/WaterFoam.dds.1",
@@ -1280,9 +1280,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "4c284506-2fbd-5d23-5591-440f61e96d8d",
+			"guid": "e16148d1-cade-2b07-5629-fddc000c8cac",
 			"name": "color_black",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/texturemsg/color_Black.dds" ],
 			"source": "%engine%/engineassets/texturemsg/color_Black.tif",
 			"metadata": "%engine%/engineassets/texturemsg/color_black.dds.cryasset",
@@ -1295,9 +1295,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "2aef32be-bcc2-dd3f-2a4a-d11c483188b1",
+			"guid": "85bd626c-5b38-0458-bc52-75d2fd7af6b9",
 			"name": "color_blue",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/texturemsg/color_Blue.dds" ],
 			"source": "%engine%/engineassets/texturemsg/color_Blue.tif",
 			"metadata": "%engine%/engineassets/texturemsg/color_blue.dds.cryasset",
@@ -1310,9 +1310,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "473e2fb2-de18-e9d9-873d-b5e0c7c75ca4",
+			"guid": "475917fb-1376-435e-5af4-30d58fe816f3",
 			"name": "color_cyan",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/texturemsg/color_Cyan.dds" ],
 			"source": "%engine%/engineassets/texturemsg/color_Cyan.tif",
 			"metadata": "%engine%/engineassets/texturemsg/color_cyan.dds.cryasset",
@@ -1325,9 +1325,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "3f63463b-32bb-7577-9011-c4811a705b4c",
+			"guid": "bfc67020-86c0-2e0f-cac4-c7d78544ef90",
 			"name": "color_green",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/texturemsg/color_Green.dds" ],
 			"source": "%engine%/engineassets/texturemsg/color_Green.tif",
 			"metadata": "%engine%/engineassets/texturemsg/color_green.dds.cryasset",
@@ -1340,9 +1340,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "20551caa-7b76-f420-f429-78c84aa8067c",
+			"guid": "373433e5-95ae-2aae-772e-441e818c49b6",
 			"name": "color_magenta",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/texturemsg/color_Magenta.dds" ],
 			"source": "%engine%/engineassets/texturemsg/color_Magenta.tif",
 			"metadata": "%engine%/engineassets/texturemsg/color_magenta.dds.cryasset",
@@ -1355,9 +1355,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "83e75ca4-e1c0-2536-6b45-9872ab36613e",
+			"guid": "f7a452ea-d6a5-d541-a79f-f3e055e6e00e",
 			"name": "color_orange",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/texturemsg/color_Orange.dds" ],
 			"source": "%engine%/engineassets/texturemsg/color_Orange.tif",
 			"metadata": "%engine%/engineassets/texturemsg/color_orange.dds.cryasset",
@@ -1370,9 +1370,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "9328192f-3817-0ad4-1878-0bf9f1787d12",
+			"guid": "1c112ab3-11da-7d04-3de9-84dfbf983588",
 			"name": "color_purple",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/texturemsg/color_Purple.dds" ],
 			"source": "%engine%/engineassets/texturemsg/color_Purple.tif",
 			"metadata": "%engine%/engineassets/texturemsg/color_purple.dds.cryasset",
@@ -1385,9 +1385,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "97714c45-a0e4-61a0-6ded-fc630afbe5ce",
+			"guid": "23b82d29-f6fe-29d1-ef34-95e5dec67bd0",
 			"name": "color_red",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/texturemsg/color_Red.dds" ],
 			"source": "%engine%/engineassets/texturemsg/color_Red.tif",
 			"metadata": "%engine%/engineassets/texturemsg/color_red.dds.cryasset",
@@ -1400,9 +1400,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "08831f09-ada4-a514-0384-24a5411fd14c",
+			"guid": "41d496a0-0dfd-bf4a-2d13-cf8b89099fc4",
 			"name": "color_white",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/texturemsg/color_White.dds" ],
 			"source": "%engine%/engineassets/texturemsg/color_White.tif",
 			"metadata": "%engine%/engineassets/texturemsg/color_white.dds.cryasset",
@@ -1415,9 +1415,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "705aa79d-2e5b-5b1b-0440-2e76634edc89",
+			"guid": "9d723785-b427-d72b-abbc-ae509bc141f8",
 			"name": "color_yellow",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/texturemsg/color_Yellow.dds" ],
 			"source": "%engine%/engineassets/texturemsg/color_Yellow.tif",
 			"metadata": "%engine%/engineassets/texturemsg/color_yellow.dds.cryasset",
@@ -1430,9 +1430,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "f598bbdb-7c54-9a1c-4f8c-21d1482303a6",
+			"guid": "53a66c2f-8bd4-5338-ad2f-bc4ef8ee018d",
 			"name": "defaultnouvs",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/DefaultNoUVs.dds",
 				"%engine%/engineassets/texturemsg/DefaultNoUVs.dds.1",
@@ -1451,9 +1451,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "b170b95d-8b3e-dcc8-93ac-f45e54a6bf69",
+			"guid": "db9c18b0-6c07-edf4-228c-9affd5762b51",
 			"name": "defaultsolids",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/texturemsg/DefaultSolids.mtl" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/texturemsg/defaultsolids.mtl.cryasset",
@@ -1470,9 +1470,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "7ed9b740-539e-f388-1e13-a621e94424f7",
+			"guid": "fa8ee5ad-181e-ab8a-f42e-ce53c02f2d62",
 			"name": "mipmapdebug",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/texturemsg/mipmapdebug.dds" ],
 			"source": "%engine%/engineassets/texturemsg/mipmapdebug.tif",
 			"metadata": "%engine%/engineassets/texturemsg/mipmapdebug.dds.cryasset",
@@ -1485,9 +1485,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "ff4634b9-2918-ff2a-5010-2ccec9ab5cd2",
+			"guid": "792d3111-e64b-de00-ea97-8165ccb7c237",
 			"name": "notfound",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/NotFound.dds",
 				"%engine%/engineassets/texturemsg/NotFound.dds.1",
@@ -1505,9 +1505,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "3de7a274-a187-1e47-ecb6-448d24757b08",
+			"guid": "ad63780b-92dd-2e3f-81f3-01426324885b",
 			"name": "notfound_a",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/NotFound_a.dds",
 				"%engine%/engineassets/texturemsg/NotFound_a.dds.1",
@@ -1525,9 +1525,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "7608caca-1a2b-d687-6746-ed127bf159b6",
+			"guid": "d135e9cf-4a40-702f-8c4d-852549926322",
 			"name": "notfound_cm",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/NotFound_cm.dds",
 				"%engine%/engineassets/texturemsg/NotFound_cm.dds.1",
@@ -1546,9 +1546,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "33dc4e82-9a59-7f02-a2b9-3d1a00f19e48",
+			"guid": "0d14a26f-4d1c-8c3f-36f9-dfb0c428c4c8",
 			"name": "notfound_cm_diff",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/texturemsg/NotFound_cm_diff.dds" ],
 			"source": "%engine%/engineassets/texturemsg/NotFound_cm.tif",
 			"metadata": "%engine%/engineassets/texturemsg/notfound_cm_diff.dds.cryasset",
@@ -1561,9 +1561,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "54c70cad-6b89-bcee-a730-e9144e59c2c1",
+			"guid": "0263a69a-5767-06ef-9bc3-9dc725e5654b",
 			"name": "notfound_ddn",
-			"timestamp": 131786737060000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/NotFound_ddn.dds",
 				"%engine%/engineassets/texturemsg/NotFound_ddn.dds.1",
@@ -1581,9 +1581,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "ae75a55b-4a3e-3471-8181-ab23ca74fec7",
+			"guid": "df98a881-81dc-0c19-58e8-0e49175b7d1e",
 			"name": "notfound_ddna",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/NotFound_ddna.dds",
 				"%engine%/engineassets/texturemsg/NotFound_ddna.dds.a",
@@ -1605,9 +1605,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "05996033-4413-337e-aa11-dc202452930b",
+			"guid": "d5d1d03d-0eeb-1e4c-a29f-17dd8dd2cee3",
 			"name": "orange_for_designer",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/texturemsg/orange_for_designer.dds" ],
 			"source": "%engine%/engineassets/texturemsg/orange_for_designer.tif",
 			"metadata": "%engine%/engineassets/texturemsg/orange_for_designer.dds.cryasset",
@@ -1620,9 +1620,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "8ea80cee-80ec-e7d0-c259-5adb36109702",
+			"guid": "6b0d82e8-5fdd-cbad-00a9-ae1572526041",
 			"name": "physproxytoobig",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/PhysProxyTooBig.dds",
 				"%engine%/engineassets/texturemsg/PhysProxyTooBig.dds.1",
@@ -1640,9 +1640,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "98871ea8-3620-929b-5479-b1af10b3c8fd",
+			"guid": "c423a8a6-2c74-ece7-47fb-9d76a124bd70",
 			"name": "rcerror_a",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/RCError_a.dds",
 				"%engine%/engineassets/texturemsg/RCError_a.dds.1",
@@ -1660,9 +1660,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "e8f5dd00-6d4a-f662-4f7d-a57505d380e8",
+			"guid": "25d6365d-3747-b6ba-0f09-c168307a66eb",
 			"name": "rcerror_cm",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/RCError_cm.dds",
 				"%engine%/engineassets/texturemsg/RCError_cm.dds.1",
@@ -1681,9 +1681,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "4ff18c7e-954c-226f-7b5e-ee26a33184a2",
+			"guid": "0e26270f-e1ce-90e7-58f0-372ccf27d0de",
 			"name": "rcerror_cm_diff",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/texturemsg/RCError_cm_diff.dds" ],
 			"source": "%engine%/engineassets/texturemsg/RCError_cm.tif",
 			"metadata": "%engine%/engineassets/texturemsg/rcerror_cm_diff.dds.cryasset",
@@ -1696,9 +1696,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "8901b2e8-5a97-0558-39f6-32140f6658a7",
+			"guid": "87fcb27a-0d34-1f70-c312-dc7c344f49d1",
 			"name": "rcerror_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/RCError_ddn.dds",
 				"%engine%/engineassets/texturemsg/RCError_ddn.dds.1",
@@ -1716,9 +1716,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "92adb488-4f6d-24d8-76b8-feb3913b02fa",
+			"guid": "7ea2da71-d0c4-42b0-ace2-2c64ef41ac33",
 			"name": "rcerror_ddna",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/RCError_ddna.dds",
 				"%engine%/engineassets/texturemsg/RCError_ddna.dds.a",
@@ -1740,9 +1740,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "ff24f8d1-7103-eb68-53e6-e6ec1f209e50",
+			"guid": "296fa827-2694-072d-2b84-77e12536e52c",
 			"name": "replaceme",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/ReplaceMe.dds",
 				"%engine%/engineassets/texturemsg/ReplaceMe.dds.1",
@@ -1760,9 +1760,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "27a195a5-428a-c71d-23f4-fc06352993d3",
+			"guid": "88463adc-89db-9bb1-ac19-58fdb33d5785",
 			"name": "replacemecm",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/ReplaceMeCm.dds",
 				"%engine%/engineassets/texturemsg/ReplaceMeCm.dds.1",
@@ -1781,9 +1781,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "ec909fb0-fe46-cb86-cd00-25f894b73953",
+			"guid": "ec502771-654b-6564-8ac9-2f7b1884a4ac",
 			"name": "replacemecm_diff",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/texturemsg/ReplaceMeCm_diff.dds" ],
 			"source": "%engine%/engineassets/texturemsg/ReplaceMeCm.tif",
 			"metadata": "%engine%/engineassets/texturemsg/replacemecm_diff.dds.cryasset",
@@ -1796,9 +1796,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "2eace10f-328c-228e-bbe4-4fca8d63d2a8",
+			"guid": "f7063419-edc8-afb1-476c-69287fd7dc22",
 			"name": "replacemerelease",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/texturemsg/ReplaceMeRelease.dds" ],
 			"source": "%engine%/engineassets/texturemsg/ReplaceMeRelease.tif",
 			"metadata": "%engine%/engineassets/texturemsg/replacemerelease.dds.cryasset",
@@ -1811,9 +1811,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "bf90ae81-c65e-52cb-1be2-dc8c2fc228eb",
+			"guid": "c5ef229b-1bc8-1a97-7710-9c9a25243f2b",
 			"name": "shadercompiling",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/ShaderCompiling.dds",
 				"%engine%/engineassets/texturemsg/ShaderCompiling.dds.1",
@@ -1831,9 +1831,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "f0f43c8c-432e-88bc-6214-c21256dcfd0b",
+			"guid": "f99265b4-d208-169f-06b0-164b383fdbd1",
 			"name": "shadererror",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/ShaderError.dds",
 				"%engine%/engineassets/texturemsg/ShaderError.dds.1",
@@ -1851,9 +1851,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "1792a30f-47d1-26c5-e217-3f1b55cbd101",
+			"guid": "2da87be0-b435-9c5e-32df-9d597743d080",
 			"name": "texturecompiling",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/TextureCompiling.dds",
 				"%engine%/engineassets/texturemsg/TextureCompiling.dds.1",
@@ -1871,9 +1871,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "7b511167-954c-34b7-8b95-792a98b14e27",
+			"guid": "5cf7cf8d-6d9d-9c9d-7f26-a9e17b7d65eb",
 			"name": "texturecompiling_a",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/TextureCompiling_a.dds",
 				"%engine%/engineassets/texturemsg/TextureCompiling_a.dds.1",
@@ -1891,9 +1891,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "7f143a24-5bab-a880-7dca-8debfc7b955a",
+			"guid": "02f2aa75-6c24-7d25-ddee-540d2b1e2814",
 			"name": "texturecompiling_cm",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/TextureCompiling_cm.dds",
 				"%engine%/engineassets/texturemsg/TextureCompiling_cm.dds.1",
@@ -1912,9 +1912,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "d47ee5e3-545f-1378-468e-f70abc3b3614",
+			"guid": "77f602d0-d915-9e48-b50f-d40c40088b2b",
 			"name": "texturecompiling_cm_diff",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/texturemsg/TextureCompiling_cm_diff.dds" ],
 			"source": "%engine%/engineassets/texturemsg/TextureCompiling_cm.tif",
 			"metadata": "%engine%/engineassets/texturemsg/texturecompiling_cm_diff.dds.cryasset",
@@ -1927,9 +1927,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "e747839f-aa60-14a5-bce1-47d9c34b04f4",
+			"guid": "f57cf778-7e08-49d6-cbb2-ed907eb8526c",
 			"name": "texturecompiling_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/TextureCompiling_ddn.dds",
 				"%engine%/engineassets/texturemsg/TextureCompiling_ddn.dds.1",
@@ -1947,9 +1947,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "f4b6c60f-36c0-17d7-2cac-d6e873f50310",
+			"guid": "0abbfd04-e201-2045-1a29-a42ace6660fa",
 			"name": "texturecompiling_ddna",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/TextureCompiling_ddna.dds",
 				"%engine%/engineassets/texturemsg/TextureCompiling_ddna.dds.a",
@@ -1971,9 +1971,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "72136419-23c8-6e83-3409-3e25d6877e35",
+			"guid": "369f5020-5360-0fc4-8f66-882a67a137c5",
 			"name": "alienhud_distortionimage",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/alienhud_distortionimage.dds" ],
 			"source": "%engine%/engineassets/textures/alienhud_distortionimage.tif",
 			"metadata": "%engine%/engineassets/textures/alienhud_distortionimage.dds.cryasset",
@@ -1986,9 +1986,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "4e6bf14a-da74-560d-cddd-c4cfe866fe63",
+			"guid": "2868565c-8d58-c81b-a829-737fa42ccaad",
 			"name": "alienhud_noise1",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/alienhud_noise1.dds" ],
 			"source": "%engine%/engineassets/textures/alienhud_noise1.tif",
 			"metadata": "%engine%/engineassets/textures/alienhud_noise1.dds.cryasset",
@@ -2001,9 +2001,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "791eb724-756d-f575-86c4-446eade9c95b",
+			"guid": "c740eda5-e286-6560-9a14-ed9a95cec0d5",
 			"name": "black",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/black.dds" ],
 			"source": "%engine%/engineassets/textures/black.tif",
 			"metadata": "%engine%/engineassets/textures/black.dds.cryasset",
@@ -2016,9 +2016,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "6c5b39bb-be63-dac8-a3cd-8c869b3f0348",
+			"guid": "8efa1d23-8b82-add9-14fc-266650dd9fcf",
 			"name": "blackalpha",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/BlackAlpha.dds" ],
 			"source": "%engine%/engineassets/textures/BlackAlpha.tif",
 			"metadata": "%engine%/engineassets/textures/blackalpha.dds.cryasset",
@@ -2031,9 +2031,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "9794a346-6d62-7144-9525-9ebed13c588f",
+			"guid": "b07693ed-cec6-ca9d-1875-8850edf51b13",
 			"name": "blackcm",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/BlackCM.dds",
 				"%engine%/engineassets/textures/BlackCM.dds.1",
@@ -2052,9 +2052,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "af81421d-1209-33e6-0184-aea67d1d30ca",
+			"guid": "a308e4a0-89bb-2088-1ff7-eb4ad91056d3",
 			"name": "blackcm_diff",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/BlackCM_diff.dds" ],
 			"source": "%engine%/engineassets/textures/BlackCM.tif",
 			"metadata": "%engine%/engineassets/textures/blackcm_diff.dds.cryasset",
@@ -2067,9 +2067,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "816741e2-440c-af45-5ce6-4d5a8cd6ae08",
+			"guid": "b06c1fda-8454-f9ea-7fe3-2466830674e2",
 			"name": "caustics_sampler",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/caustics_sampler.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/textures/caustics_sampler.dds.cryasset",
@@ -2082,9 +2082,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "0bbb05fd-9fb2-99a7-bec2-6a408a81ba1f",
+			"guid": "58572a64-2816-5498-b8c3-829fb2feb9a1",
 			"name": "cursor_green",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/Cursor_Green.dds" ],
 			"source": "%engine%/engineassets/textures/Cursor_Green.tif",
 			"metadata": "%engine%/engineassets/textures/cursor_green.dds.cryasset",
@@ -2097,9 +2097,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "78a6f348-047c-475c-45c7-166dc9a15830",
+			"guid": "3c0a63a6-e5a5-e7bc-d453-d97891fe1c6a",
 			"name": "default_cch",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/default_cch.dds" ],
 			"source": "%engine%/engineassets/textures/default_cch.tif",
 			"metadata": "%engine%/engineassets/textures/default_cch.dds.cryasset",
@@ -2112,9 +2112,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "629ae833-8447-eccd-a390-b1c9efa0c714",
+			"guid": "b2aace23-8017-3fc6-025b-1cc51548d820",
 			"name": "default_icon",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/default_icon.dds",
 				"%engine%/engineassets/textures/default_icon.dds.1",
@@ -2131,9 +2131,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "59123364-d162-cb39-a36b-831c4f81b2f3",
+			"guid": "9e11d08a-46ef-4017-93ea-37f4a88f7aac",
 			"name": "16_12",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/defaults/16_12.dds",
 				"%engine%/engineassets/textures/defaults/16_12.dds.1",
@@ -2150,9 +2150,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "ff3155d3-7d5d-9568-884c-4cb1e38d8162",
+			"guid": "51e98e22-1cb5-3fc6-c08a-6b0432202235",
 			"name": "16_34",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/defaults/16_34.dds",
 				"%engine%/engineassets/textures/defaults/16_34.dds.1",
@@ -2169,9 +2169,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "33f7b6bd-b2c9-da75-18eb-582213b3f7cc",
+			"guid": "596f51be-d1d9-7229-dc20-8c6df9cae9c7",
 			"name": "16_5",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/defaults/16_5.dds",
 				"%engine%/engineassets/textures/defaults/16_5.dds.1",
@@ -2188,9 +2188,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a7985e10-55df-99c0-0c76-67cd70ee07f3",
+			"guid": "043130bf-54c0-fd0a-b76e-6fb9bcb16e69",
 			"name": "16_grey",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/defaults/16_grey.dds" ],
 			"source": "%engine%/engineassets/textures/defaults/16_grey.tif",
 			"metadata": "%engine%/engineassets/textures/defaults/16_grey.dds.cryasset",
@@ -2203,9 +2203,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "0fe19342-447d-e55c-8583-ab60e5711b10",
+			"guid": "c6d464d3-85f3-cc11-e2df-ec1ea9476cc0",
 			"name": "defaultnouvs",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/defaults/defaultnouvs.dds",
 				"%engine%/engineassets/textures/defaults/defaultnouvs.dds.1",
@@ -2225,9 +2225,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "16d9ebdb-2871-09d0-b2f0-a6fa91cc398e",
+			"guid": "1a2ae5aa-ba13-9fa7-5d92-a0993fc22ad6",
 			"name": "detaildecalvariation",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/detailDecalVariation.dds",
 				"%engine%/engineassets/textures/detailDecalVariation.dds.1",
@@ -2246,9 +2246,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "3086bd60-c15a-c522-a8bf-5abd02653c45",
+			"guid": "62c782e2-840d-7073-534a-75c81e989bea",
 			"name": "dither_2",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/dither_2.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/textures/dither_2.dds.cryasset",
@@ -2261,9 +2261,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "4fc61c83-dfb6-7e12-4dbe-f6ff0fd286e7",
+			"guid": "626c1344-957c-754e-d797-9709997ee02c",
 			"name": "dither_pattern_2d",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/dither_pattern_2d.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/textures/dither_pattern_2d.dds.cryasset",
@@ -2276,9 +2276,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "bf509f58-3cc6-144a-d12d-529c59302257",
+			"guid": "2131e209-ca02-b797-a04b-6dd9021ef0d7",
 			"name": "arc",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/arc.dds" ],
 			"source": "%engine%/engineassets/textures/flares/arc.tif",
 			"metadata": "%engine%/engineassets/textures/flares/arc.dds.cryasset",
@@ -2291,9 +2291,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "19a833b8-4d49-2a80-e97c-e87889e36fa0",
+			"guid": "1830f5aa-13cf-b68a-bfdf-d08516fd4133",
 			"name": "arc2",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/arc2.dds" ],
 			"source": "%engine%/engineassets/textures/flares/arc2.tif",
 			"metadata": "%engine%/engineassets/textures/flares/arc2.dds.cryasset",
@@ -2306,9 +2306,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "6fa6dc26-458b-eae9-e81a-4a3a63376a12",
+			"guid": "377bbf0c-932a-d8e9-180d-eb637c904e8e",
 			"name": "arc_full",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/arc_full.dds" ],
 			"source": "%engine%/engineassets/textures/flares/arc_full.tif",
 			"metadata": "%engine%/engineassets/textures/flares/arc_full.dds.cryasset",
@@ -2321,9 +2321,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "c448b43d-9d07-5d13-9d7f-7dd6941c173e",
+			"guid": "ab91380f-8cd8-be21-49de-7078706ec4d5",
 			"name": "arc_full2",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/arc_full2.dds" ],
 			"source": "%engine%/engineassets/textures/flares/arc_full2.tif",
 			"metadata": "%engine%/engineassets/textures/flares/arc_full2.dds.cryasset",
@@ -2336,9 +2336,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "3b40f788-5edb-6b8e-b653-21c5dd0b04d3",
+			"guid": "8c927fbf-c1b7-17b8-de1f-65e2e0ed79b8",
 			"name": "circle_ghost",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/circle_ghost.dds" ],
 			"source": "%engine%/engineassets/textures/flares/circle_ghost.tif",
 			"metadata": "%engine%/engineassets/textures/flares/circle_ghost.dds.cryasset",
@@ -2351,9 +2351,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "6cee3659-d3ed-db75-1091-b529652008d6",
+			"guid": "3f62b126-830f-e6e0-f4e3-fd9b2053ba35",
 			"name": "circle_smudgy_ghost",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/circle_smudgy_ghost.dds" ],
 			"source": "%engine%/engineassets/textures/flares/circle_smudgy_ghost.tif",
 			"metadata": "%engine%/engineassets/textures/flares/circle_smudgy_ghost.dds.cryasset",
@@ -2366,9 +2366,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "2adb5b8b-0ae2-20e2-f9d8-932b0a528bcd",
+			"guid": "7e3a5e17-2dae-26a7-1bd7-baa2e5a7a685",
 			"name": "default-flare",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/default-flare.dds" ],
 			"source": "%engine%/engineassets/textures/flares/default-flare.tif",
 			"metadata": "%engine%/engineassets/textures/flares/default-flare.dds.cryasset",
@@ -2381,9 +2381,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "db3ae561-4e47-f9a5-7c03-0b3c8bd5f978",
+			"guid": "13660a33-5cfa-9a36-3c4a-21f1ccb4b55c",
 			"name": "default-flares_tile_2x2",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/default-flares_tile_2x2.dds" ],
 			"source": "%engine%/engineassets/textures/flares/default-flares_tile_2x2.tif",
 			"metadata": "%engine%/engineassets/textures/flares/default-flares_tile_2x2.dds.cryasset",
@@ -2396,9 +2396,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a9f28bfe-13b1-1873-f754-1a6583de2d67",
+			"guid": "454e455a-0751-5383-2d9f-113a974cd538",
 			"name": "default-orb",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/default-orb.dds" ],
 			"source": "%engine%/engineassets/textures/flares/default-orb.tif",
 			"metadata": "%engine%/engineassets/textures/flares/default-orb.dds.cryasset",
@@ -2411,9 +2411,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "b8e9c6c0-99b7-1f75-2b7b-4431c49ff236",
+			"guid": "da5dbf0c-3217-604f-3bff-526e5c3e6b1f",
 			"name": "elipse_ghost",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/elipse_ghost.dds" ],
 			"source": "%engine%/engineassets/textures/flares/elipse_ghost.tif",
 			"metadata": "%engine%/engineassets/textures/flares/elipse_ghost.dds.cryasset",
@@ -2426,9 +2426,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "d9ffef4f-a7e5-10e4-fcf8-838be16c215d",
+			"guid": "6d58e410-8d9d-b7f5-63ff-88ae12527d90",
 			"name": "ghost",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/icons/ghost.dds" ],
 			"source": "%engine%/engineassets/textures/flares/icons/ghost.tif",
 			"metadata": "%engine%/engineassets/textures/flares/icons/ghost.dds.cryasset",
@@ -2441,9 +2441,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "1f7cc527-b33a-6407-629a-acc952ed93d8",
+			"guid": "1b6d84b2-a9b4-5cae-8581-8e6e6cb4b44c",
 			"name": "glow",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/icons/glow.dds" ],
 			"source": "%engine%/engineassets/textures/flares/icons/glow.tif",
 			"metadata": "%engine%/engineassets/textures/flares/icons/glow.dds.cryasset",
@@ -2456,9 +2456,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "268a6621-0a74-4487-0716-b712e04aca39",
+			"guid": "417d9b89-42f7-c74c-b38c-0656abb42b1a",
 			"name": "iris_shafts",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/icons/iris_shafts.dds" ],
 			"source": "%engine%/engineassets/textures/flares/icons/iris_shafts.tif",
 			"metadata": "%engine%/engineassets/textures/flares/icons/iris_shafts.dds.cryasset",
@@ -2471,9 +2471,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "3a9daeb9-dfe6-8467-639c-26586b2dd793",
+			"guid": "8cf91b71-e499-0e84-3870-324224e0d349",
 			"name": "multi_ghost",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/icons/multi_ghost.dds" ],
 			"source": "%engine%/engineassets/textures/flares/icons/multi_ghost.tif",
 			"metadata": "%engine%/engineassets/textures/flares/icons/multi_ghost.dds.cryasset",
@@ -2486,9 +2486,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "451af453-462d-dd73-07fe-3aa173a8b18e",
+			"guid": "0147093a-2949-0708-c17b-b2f7846f5620",
 			"name": "orbs",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/icons/orbs.dds" ],
 			"source": "%engine%/engineassets/textures/flares/icons/orbs.tif",
 			"metadata": "%engine%/engineassets/textures/flares/icons/orbs.dds.cryasset",
@@ -2501,9 +2501,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a2da3df3-a2b5-a7fd-9469-314e9a0642a8",
+			"guid": "3471b1df-652f-cede-273a-a23763cc7f8d",
 			"name": "ring",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/icons/ring.dds" ],
 			"source": "%engine%/engineassets/textures/flares/icons/ring.tif",
 			"metadata": "%engine%/engineassets/textures/flares/icons/ring.dds.cryasset",
@@ -2516,9 +2516,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "0b98e020-2bb8-6255-e1e4-dfbb07886174",
+			"guid": "3567f97c-4537-dea9-4ada-ffc0793494ca",
 			"name": "test_demo",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/icons/test_demo.dds" ],
 			"source": "%engine%/engineassets/textures/flares/icons/test_demo.tif",
 			"metadata": "%engine%/engineassets/textures/flares/icons/test_demo.dds.cryasset",
@@ -2531,9 +2531,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "dfb2495c-df42-278f-347e-35f12ac3c397",
+			"guid": "b687818d-4fde-f5d9-6b75-63c2e7291b62",
 			"name": "vol_shafts",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/icons/vol_shafts.dds" ],
 			"source": "%engine%/engineassets/textures/flares/icons/vol_shafts.tif",
 			"metadata": "%engine%/engineassets/textures/flares/icons/vol_shafts.dds.cryasset",
@@ -2546,9 +2546,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a4eab410-bd7f-90bf-2c8a-0f76fcf2b766",
+			"guid": "dfd7c67f-c7a8-1d0a-93c4-836e930135da",
 			"name": "lens_flare1-wide",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/lens_flare1-wide.dds" ],
 			"source": "%engine%/engineassets/textures/flares/lens_flare1-wide.tif",
 			"metadata": "%engine%/engineassets/textures/flares/lens_flare1-wide.dds.cryasset",
@@ -2561,9 +2561,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "f0c93d43-798f-b49a-87f9-48569090e6e5",
+			"guid": "387639a0-815a-a5e8-95d8-417c92d8b5d2",
 			"name": "luma_falloff",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/luma_falloff.dds" ],
 			"source": "%engine%/engineassets/textures/flares/luma_falloff.tif",
 			"metadata": "%engine%/engineassets/textures/flares/luma_falloff.dds.cryasset",
@@ -2576,9 +2576,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "58cd6f06-33ce-dce6-2a6a-53e0a49f8f20",
+			"guid": "ec5353b0-cec1-5e95-8c48-1771158fa34f",
 			"name": "luma_falloff2",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/luma_falloff2.dds" ],
 			"source": "%engine%/engineassets/textures/flares/luma_falloff2.tif",
 			"metadata": "%engine%/engineassets/textures/flares/luma_falloff2.dds.cryasset",
@@ -2591,9 +2591,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "0482178e-e24f-c2a1-26f2-74a610f483c9",
+			"guid": "9180a08e-6ff4-a543-7097-8f15a067dba0",
 			"name": "pentagon_ghost",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/pentagon_ghost.dds" ],
 			"source": "%engine%/engineassets/textures/flares/pentagon_ghost.tif",
 			"metadata": "%engine%/engineassets/textures/flares/pentagon_ghost.dds.cryasset",
@@ -2606,9 +2606,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "5c810798-823e-08f2-15cf-df7774bfa3a4",
+			"guid": "c8d0a771-f629-abef-845b-d66ef5a3c2fc",
 			"name": "pentagon_ghost_cellular",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/pentagon_ghost_cellular.dds" ],
 			"source": "%engine%/engineassets/textures/flares/pentagon_ghost_cellular.tif",
 			"metadata": "%engine%/engineassets/textures/flares/pentagon_ghost_cellular.dds.cryasset",
@@ -2621,9 +2621,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "8eb7e710-8472-1d4d-f9da-2a3d72e83f7e",
+			"guid": "5f950cf2-e093-8e19-90a9-c40dcdafe386",
 			"name": "pentagon_ghost_darkened",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/pentagon_ghost_darkened.dds" ],
 			"source": "%engine%/engineassets/textures/flares/pentagon_ghost_darkened.tif",
 			"metadata": "%engine%/engineassets/textures/flares/pentagon_ghost_darkened.dds.cryasset",
@@ -2636,9 +2636,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "88eeef2c-04bf-80de-937a-3a3ae922ce9e",
+			"guid": "166b6667-ba80-a155-5a92-052f3d8f5f3f",
 			"name": "pentagon_ghost_smudgy",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/pentagon_ghost_smudgy.dds" ],
 			"source": "%engine%/engineassets/textures/flares/pentagon_ghost_smudgy.tif",
 			"metadata": "%engine%/engineassets/textures/flares/pentagon_ghost_smudgy.dds.cryasset",
@@ -2651,9 +2651,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "ca5fbea0-70b2-0735-7e36-e680726b5272",
+			"guid": "7638edff-5f63-2b23-7ba5-1b34f05dabd5",
 			"name": "rectangular_ghost",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/rectangular_ghost.dds" ],
 			"source": "%engine%/engineassets/textures/flares/rectangular_ghost.tif",
 			"metadata": "%engine%/engineassets/textures/flares/rectangular_ghost.dds.cryasset",
@@ -2666,9 +2666,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "100e7cb6-1fa3-992c-7824-28fc5165d209",
+			"guid": "1026d00a-d3b6-a8d9-5baa-ece0d6a167ae",
 			"name": "smudgy",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/Smudgy.dds" ],
 			"source": "%engine%/engineassets/textures/flares/Smudgy.tif",
 			"metadata": "%engine%/engineassets/textures/flares/smudgy.dds.cryasset",
@@ -2681,9 +2681,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "c7b4b468-d7d5-465f-70b4-10c854eb1aa5",
+			"guid": "61008943-52f6-6fa7-5ff0-767474b1c73c",
 			"name": "smudgy_ghost",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/smudgy_ghost.dds" ],
 			"source": "%engine%/engineassets/textures/flares/smudgy_ghost.tif",
 			"metadata": "%engine%/engineassets/textures/flares/smudgy_ghost.dds.cryasset",
@@ -2696,9 +2696,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a107db04-7657-46c9-4dc7-c9b31c702d9e",
+			"guid": "d5a53caf-e8ee-dfa1-461a-ede26f674fb4",
 			"name": "spectrum_full",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/spectrum_full.dds" ],
 			"source": "%engine%/engineassets/textures/flares/spectrum_full.tif",
 			"metadata": "%engine%/engineassets/textures/flares/spectrum_full.dds.cryasset",
@@ -2711,9 +2711,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "1568d74d-1b2c-6c52-35c4-4aaf38f6b41f",
+			"guid": "2a1616b8-0809-88c1-d830-407408a2f9da",
 			"name": "spectrum_spike",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/spectrum_spike.dds" ],
 			"source": "%engine%/engineassets/textures/flares/spectrum_spike.tif",
 			"metadata": "%engine%/engineassets/textures/flares/spectrum_spike.dds.cryasset",
@@ -2726,9 +2726,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "e401fe62-e13b-9e87-8160-b8170115c1f4",
+			"guid": "59ec686a-a220-8add-4378-cc35c2b3892e",
 			"name": "visorflare_square01",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/flares/VisorFlare_square01.dds" ],
 			"source": "%engine%/engineassets/textures/flares/VisorFlare_square01.tif",
 			"metadata": "%engine%/engineassets/textures/flares/visorflare_square01.dds.cryasset",
@@ -2741,9 +2741,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "2fb032c0-eb03-eb91-3b34-444957b92ea6",
+			"guid": "eb3c238f-59bb-c8e0-94c3-0a3ede3cd445",
 			"name": "fogvolshadowjitter",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/FogVolShadowJitter.dds" ],
 			"source": "%engine%/engineassets/textures/FogVolShadowJitter.tif",
 			"metadata": "%engine%/engineassets/textures/fogvolshadowjitter.dds.cryasset",
@@ -2756,9 +2756,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "e9a26d4a-fd33-a006-1875-23492fd926ae",
+			"guid": "a4f3323a-4a49-c900-ceda-058cb2dcf6ce",
 			"name": "fresnel_sampler",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/fresnel_sampler.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/textures/fresnel_sampler.dds.cryasset",
@@ -2771,9 +2771,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "120ed8ae-9b2b-e20b-01b8-b1925a06d515",
+			"guid": "81d01e10-449a-361a-6d9d-9bddecad1833",
 			"name": "fringe_map",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/fringe_map.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/textures/fringe_map.dds.cryasset",
@@ -2786,9 +2786,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "9762fbf3-fc49-2d2f-7d82-e7df526ff2e0",
+			"guid": "a7d5a521-9244-ed4b-d030-cbfd2382e09b",
 			"name": "frost_refl2",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/frost_refl2.dds",
 				"%engine%/engineassets/textures/frost_refl2.dds.1",
@@ -2807,9 +2807,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "ad3ded79-d023-b60c-25a2-4956fa2b5449",
+			"guid": "d1e90bd2-0410-11d4-5fd3-744a1b2bd949",
 			"name": "frost_noise3",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/frozen/frost_noise3.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/textures/frozen/frost_noise3.dds.cryasset",
@@ -2822,9 +2822,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "fa27bb3a-a920-b8b9-1cd4-66e0822a84df",
+			"guid": "d6cc4fd9-b57a-2d88-acb0-9ae6191d323f",
 			"name": "frost_noise4",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/frozen/frost_noise4.dds",
 				"%engine%/engineassets/textures/frozen/frost_noise4.dds.1",
@@ -2844,9 +2844,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "faf395bc-9de9-840d-ad97-241aa021cc50",
+			"guid": "2ba7a91f-902f-4bc5-0fe6-220a6b7df00b",
 			"name": "snow_spatter",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/frozen/snow_spatter.dds",
 				"%engine%/engineassets/textures/frozen/snow_spatter.dds.1",
@@ -2866,9 +2866,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "dc5067dc-0102-9280-7d63-bdbb72761044",
+			"guid": "3a748d1f-9a45-1668-304f-66e51c342fa9",
 			"name": "fuzzy_pow_sampler_merged",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/fuzzy_pow_sampler_merged.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/textures/fuzzy_pow_sampler_merged.dds.cryasset",
@@ -2881,9 +2881,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "d0bde1e0-d695-ecd9-1336-c9246425f591",
+			"guid": "215abc14-bf51-8d36-eba7-0637c3bcda51",
 			"name": "glass_decalatlas_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/glass_decalatlas_ddn.dds",
 				"%engine%/engineassets/textures/glass_decalatlas_ddn.dds.1",
@@ -2904,9 +2904,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "25f5fa18-6862-ddcd-6c69-08072295b042",
+			"guid": "737396af-5f4e-b158-eebc-ae019c08ead5",
 			"name": "glass_decalatlas_diff",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/glass_decalatlas_diff.dds",
 				"%engine%/engineassets/textures/glass_decalatlas_diff.dds.1",
@@ -2927,9 +2927,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "52713d79-5614-bcb3-6b2d-79b6304791f5",
+			"guid": "74782279-89be-eb55-4119-e9ca9f3e0255",
 			"name": "grey",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/grey.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/textures/grey.dds.cryasset",
@@ -2942,9 +2942,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "80862b97-c61a-bcf3-b5b1-cfac087706d5",
+			"guid": "2fb4fe29-ed99-21ed-9f88-5264dc99a038",
 			"name": "greyalpha",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/GreyAlpha.dds" ],
 			"source": "%engine%/engineassets/textures/GreyAlpha.tif",
 			"metadata": "%engine%/engineassets/textures/greyalpha.dds.cryasset",
@@ -2957,9 +2957,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "b6450ba5-7c5b-3514-93bd-dbea7493f010",
+			"guid": "5f28acc9-8f14-89be-eb20-6c17763e70d9",
 			"name": "hex",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/hex.dds",
 				"%engine%/engineassets/textures/hex.dds.1",
@@ -2977,9 +2977,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "fd5370b7-7e15-ec88-6911-8e6043b55fd5",
+			"guid": "f545ecdd-08e2-d9a0-53c6-b7ed1470ef88",
 			"name": "hex_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/hex_ddn.dds",
 				"%engine%/engineassets/textures/hex_ddn.dds.1",
@@ -2997,9 +2997,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "2ee91f66-61ae-7fda-fbfb-766d8d4726fd",
+			"guid": "c82e9489-f267-6c6f-887c-c64b7262f6cd",
 			"name": "hex_grad",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/hex_grad.dds",
 				"%engine%/engineassets/textures/hex_grad.dds.1",
@@ -3017,9 +3017,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "4f5f10f6-5352-7c1c-f08d-5d6381d2ef33",
+			"guid": "bad4558c-850e-0760-58df-467abb80e4af",
 			"name": "hex_line",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/hex_line.dds",
 				"%engine%/engineassets/textures/hex_line.dds.1",
@@ -3036,9 +3036,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "22f3ce11-34a6-7c53-50df-149ac957783b",
+			"guid": "566d2e85-b573-0160-fb1e-cc6f5eef51f3",
 			"name": "hex_rand",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/hex_rand.dds",
 				"%engine%/engineassets/textures/hex_rand.dds.1",
@@ -3056,9 +3056,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "0d56762f-b6cc-9896-ed9d-812956388104",
+			"guid": "02408ab1-cb5b-feb4-1bdd-9a544ae19264",
 			"name": "hiteffect_areas",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/hiteffect_areas.dds" ],
 			"source": "%engine%/engineassets/textures/hiteffect_areas.tif",
 			"metadata": "%engine%/engineassets/textures/hiteffect_areas.dds.cryasset",
@@ -3071,9 +3071,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "285a4cb4-c932-6470-6632-fa47d94ad145",
+			"guid": "ab029149-e442-3b4c-217c-4fd68fb1ed1e",
 			"name": "hiteffect_blurmask_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/hiteffect_blurmask_ddn.dds",
 				"%engine%/engineassets/textures/hiteffect_blurmask_ddn.dds.1",
@@ -3093,9 +3093,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a0002efb-f677-8e7d-a702-6cab16f353c8",
+			"guid": "9eeeb340-058f-b753-3da1-a20f7730c1e3",
 			"name": "hiteffect_healthgradient",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/hiteffect_healthgradient.dds" ],
 			"source": "%engine%/engineassets/textures/hiteffect_healthgradient.tif",
 			"metadata": "%engine%/engineassets/textures/hiteffect_healthgradient.dds.cryasset",
@@ -3108,9 +3108,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "5720ae25-adfd-bf97-624e-9565b499905c",
+			"guid": "5b82a72c-e2c3-43eb-c8de-fc6c33f7b6ae",
 			"name": "hiteffect_lvlgradient",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/hiteffect_lvlgradient.dds" ],
 			"source": "%engine%/engineassets/textures/hiteffect_lvlgradient.tif",
 			"metadata": "%engine%/engineassets/textures/hiteffect_lvlgradient.dds.cryasset",
@@ -3123,9 +3123,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "57036de5-2181-549f-e07e-9a1178bf2d75",
+			"guid": "6ae1cefd-d8c2-5c6d-4682-0de72b518bcd",
 			"name": "hiteffect_round",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/hiteffect_round.dds",
 				"%engine%/engineassets/textures/hiteffect_round.dds.1",
@@ -3142,9 +3142,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "940ecf64-c363-a21b-0427-fde0a2788640",
+			"guid": "c0070c3d-d430-5c04-93bf-b8806e530cce",
 			"name": "hiteffect_veinsblood",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/hiteffect_veinsblood.dds",
 				"%engine%/engineassets/textures/hiteffect_veinsblood.dds.1",
@@ -3163,9 +3163,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "e50c0eb5-614f-8d85-d05e-fd96c42b547d",
+			"guid": "5b3eaa49-6391-3fe3-cba6-fdf89767b52e",
 			"name": "interference",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/interference.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/textures/interference.dds.cryasset",
@@ -3178,9 +3178,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "9142cd91-7261-9027-4fbb-90cd72c61d2b",
+			"guid": "b7f2c003-7111-e1a2-070a-e58dbe0c4e89",
 			"name": "jumpnoisehighfrequency_x27y19",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/jumpnoisehighfrequency_x27y19.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/textures/jumpnoisehighfrequency_x27y19.dds.cryasset",
@@ -3193,9 +3193,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "8a497fb1-db32-e803-8aa0-d1f356d21014",
+			"guid": "8bbef126-93b7-efdb-87ed-871c5917a171",
 			"name": "alien_ringlight",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/alien_ringlight.dds",
 				"%engine%/engineassets/textures/lights/alien_ringlight.dds.1",
@@ -3215,9 +3215,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "5c1d06f0-7c3c-ab4a-3d87-7d98ee756dc3",
+			"guid": "eb778b65-91a8-538b-b015-2ba6e5827481",
 			"name": "ce_logo_black",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/ce_logo_black.dds",
 				"%engine%/engineassets/textures/lights/ce_logo_black.dds.1",
@@ -3237,9 +3237,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "869d298c-3abf-f91f-f401-b52289356740",
+			"guid": "c1c9a0b8-4aae-11d0-0940-484bef9d36d6",
 			"name": "ce_logo_white",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/ce_logo_white.dds",
 				"%engine%/engineassets/textures/lights/ce_logo_white.dds.1",
@@ -3259,9 +3259,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "60265753-7ee2-5465-c3ad-890e58c570ad",
+			"guid": "64efccfa-e6f6-2d09-b52a-2fb413c64d9d",
 			"name": "donut_light",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/donut_light.dds",
 				"%engine%/engineassets/textures/lights/donut_light.dds.1",
@@ -3281,9 +3281,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "02cdf60f-e74f-ba1a-7911-2e3ffa012094",
+			"guid": "d3cfaf37-027c-9446-60b2-df8cb5a6a010",
 			"name": "flashlight_projector",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/flashlight_projector.dds",
 				"%engine%/engineassets/textures/lights/flashlight_projector.dds.1",
@@ -3303,9 +3303,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "0cd59dca-04a0-43c6-4f9e-da86bc3dac7a",
+			"guid": "968ae66b-5036-0126-228f-e299debb418e",
 			"name": "horzontal_projector_100",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/horzontal_projector_100.dds",
 				"%engine%/engineassets/textures/lights/horzontal_projector_100.dds.1",
@@ -3325,9 +3325,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "aab5f931-09f1-ae69-2b13-46268ce77cbf",
+			"guid": "dd53fa3e-63a4-2c25-5ef3-3893e3db337b",
 			"name": "lens_flare1",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/lens_flare1.dds",
 				"%engine%/engineassets/textures/lights/lens_flare1.dds.a",
@@ -3353,9 +3353,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "0b2ca509-e1e8-012a-0418-9da492dbea6c",
+			"guid": "4ec014c9-414a-d750-fb68-aa58adfe064e",
 			"name": "rectangular_projector_100",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/rectangular_projector_100.dds",
 				"%engine%/engineassets/textures/lights/rectangular_projector_100.dds.1",
@@ -3375,9 +3375,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "75116461-80b1-ea20-1cf0-677db99b14fc",
+			"guid": "78b45392-2e60-9809-c27e-9eef5c2b37f5",
 			"name": "rectangular_projector_33",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/rectangular_projector_33.dds",
 				"%engine%/engineassets/textures/lights/rectangular_projector_33.dds.1",
@@ -3397,9 +3397,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "1eeddd9c-d007-f03c-a288-0f4bcdda21c5",
+			"guid": "973b401a-292e-0f90-1de5-7307b48f7d1c",
 			"name": "rectangular_projector_66",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/rectangular_projector_66.dds",
 				"%engine%/engineassets/textures/lights/rectangular_projector_66.dds.1",
@@ -3419,9 +3419,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "659d36bc-29a5-8921-ca8c-bf58e5b44554",
+			"guid": "7e8c6ac8-bd0f-6fb6-bf82-6963ccecc6de",
 			"name": "softedge",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/softedge.dds",
 				"%engine%/engineassets/textures/lights/softedge.dds.1",
@@ -3441,9 +3441,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "07b9fb56-7a0a-0ddf-ed11-c70cc83d7a4d",
+			"guid": "12a337a8-f60d-80d3-03fe-58d05aefb4ea",
 			"name": "spot_005",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/spot_005.dds",
 				"%engine%/engineassets/textures/lights/spot_005.dds.1",
@@ -3463,9 +3463,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "257bde44-2173-4cfa-ab91-e7c1f3523a3c",
+			"guid": "c0e8a065-eeb2-9782-d540-a46f2ca79ccc",
 			"name": "spot_025",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/spot_025.dds",
 				"%engine%/engineassets/textures/lights/spot_025.dds.1",
@@ -3485,9 +3485,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "8401704c-b05a-54fd-85c5-4363c8d38a05",
+			"guid": "e48a294e-bf81-535b-37fa-226a0a95c415",
 			"name": "spot_050",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/spot_050.dds",
 				"%engine%/engineassets/textures/lights/spot_050.dds.1",
@@ -3507,9 +3507,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "c04524c5-05b7-9c9a-d381-acad53ba4d06",
+			"guid": "47a00275-fccc-68f4-074d-cdf5cea6fc62",
 			"name": "spot_075",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/spot_075.dds",
 				"%engine%/engineassets/textures/lights/spot_075.dds.1",
@@ -3529,9 +3529,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "f9e08804-7201-3c8b-3249-80e41854b142",
+			"guid": "a9e1b4e1-57b0-3316-4e85-d9035a59cb15",
 			"name": "spot_100",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/spot_100.dds",
 				"%engine%/engineassets/textures/lights/spot_100.dds.1",
@@ -3551,9 +3551,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "e4c47e93-1a28-8d56-a456-6e4e05b51b83",
+			"guid": "8fd2fb13-5c44-18c9-4a03-32d2222ba800",
 			"name": "vertical_projector_100",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/vertical_projector_100.dds",
 				"%engine%/engineassets/textures/lights/vertical_projector_100.dds.1",
@@ -3573,9 +3573,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "1690ec72-276b-5735-c7a3-05f6ad145c1f",
+			"guid": "73d43375-de9a-70f6-5a25-2d84a740af79",
 			"name": "moisturedroplets",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/moisturedroplets.dds",
 				"%engine%/engineassets/textures/moisturedroplets.dds.1",
@@ -3595,9 +3595,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "6884a04c-82e7-f2cb-f211-848bc1576c90",
+			"guid": "01649ee1-a54c-5486-e326-994194be4ea5",
 			"name": "nightvis_grad",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/nightvis_grad.dds" ],
 			"source": "%engine%/engineassets/textures/nightvis_grad.tif",
 			"metadata": "%engine%/engineassets/textures/nightvis_grad.dds.cryasset",
@@ -3610,9 +3610,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "1a3425d7-fcb5-2523-1538-c9d9bf0d1689",
+			"guid": "67fa436d-4323-809b-2028-2dbf1659c63a",
 			"name": "noise",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/noise.dds",
 				"%engine%/engineassets/textures/noise.dds.1",
@@ -3629,9 +3629,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "c9c54685-8655-aca8-6780-8df4d36519ef",
+			"guid": "3461abcb-67d8-cadb-8be0-7f98fa7e6026",
 			"name": "noise3d",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/noise3d.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/textures/noise3d.dds.cryasset",
@@ -3644,9 +3644,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "290c2352-b4d6-8e43-4cac-2a5ff2995297",
+			"guid": "15c93779-ce9f-2a11-a8e6-54ff9c04ebb3",
 			"name": "oceanwaves_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/oceanwaves_ddn.dds",
 				"%engine%/engineassets/textures/oceanwaves_ddn.dds.1",
@@ -3665,9 +3665,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "346cfcf4-8c13-aa73-d347-7cad87907a35",
+			"guid": "cce828f5-f2ad-4ce0-fc7a-a079ce50c95f",
 			"name": "cloak_interlation",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/palette/cloak_interlation.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/textures/palette/cloak_interlation.dds.cryasset",
@@ -3680,9 +3680,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "1a5ab2e5-17b1-7bf2-6f26-04cb018cd7a2",
+			"guid": "b67a69c4-b16d-58f5-70ee-d1c54d79caef",
 			"name": "cloak_palette",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/palette/cloak_palette.dds" ],
 			"source": "%engine%/engineassets/textures/palette/cloak_palette.tif",
 			"metadata": "%engine%/engineassets/textures/palette/cloak_palette.dds.cryasset",
@@ -3695,9 +3695,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "19f31d58-0fc4-a1ac-5afd-5b86392fafd5",
+			"guid": "b5195e8b-16fd-efcc-9c83-c9b36df459a0",
 			"name": "cloak_sparks",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/palette/cloak_sparks.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/textures/palette/cloak_sparks.dds.cryasset",
@@ -3710,9 +3710,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "b1157a6e-b6b5-c7e7-81a8-2495bc447fc8",
+			"guid": "0b0d2567-42df-50f6-a147-6bb4dc98f8fd",
 			"name": "cloak_transition",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/palette/cloak_transition.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/textures/palette/cloak_transition.dds.cryasset",
@@ -3725,9 +3725,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "773919bb-cf20-ed31-2881-20c5a5f8092a",
+			"guid": "370d0ffb-5cda-646f-a510-1a049c88a18e",
 			"name": "palletteinst",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/palletteInst.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/textures/palletteinst.dds.cryasset",
@@ -3740,9 +3740,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a374c428-395a-cee6-0bf7-b25321d678ab",
+			"guid": "43178161-4cec-9958-0837-ab8150d07fbf",
 			"name": "perlinnoise2d",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/perlinNoise2d.dds",
 				"%engine%/engineassets/textures/perlinNoise2d.dds.1",
@@ -3761,9 +3761,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "b7c7c4d6-9b54-cd56-3d62-5b5a8bcdaf2d",
+			"guid": "b395c965-badb-cd18-71f5-2bd04c4848e8",
 			"name": "perlinnoise_sum",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/perlinNoise_sum.dds",
 				"%engine%/engineassets/textures/perlinNoise_sum.dds.1",
@@ -3782,9 +3782,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "98d24159-356d-a482-b9d2-fd0913ee29fa",
+			"guid": "d11bd744-6029-1c1a-7dfc-dfb17e4e6411",
 			"name": "perlinnoise_sum_small",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/perlinNoise_sum_small.dds",
 				"%engine%/engineassets/textures/perlinNoise_sum_small.dds.1",
@@ -3802,9 +3802,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "e086c8ae-9fa2-f25e-8624-87a9710b7226",
+			"guid": "e4bda646-9f0c-d521-4c8c-d5650bc9aba3",
 			"name": "perlinnoisederivatives",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/perlinNoiseDerivatives.dds",
 				"%engine%/engineassets/textures/perlinNoiseDerivatives.dds.1",
@@ -3823,9 +3823,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a2b108d3-6bae-b5fb-559c-0a073a62990e",
+			"guid": "3755bc26-98fd-9d1d-0231-e38ef9e3b2a8",
 			"name": "perlinnoisenormal_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/perlinNoiseNormal_ddn.dds",
 				"%engine%/engineassets/textures/perlinNoiseNormal_ddn.dds.1",
@@ -3844,9 +3844,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "0596e705-cd35-eb49-e7f0-efd628620dad",
+			"guid": "046f5797-896d-d2a0-9414-733eae8c0192",
 			"name": "pixeltex",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/pixeltex.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/textures/pixeltex.dds.cryasset",
@@ -3859,9 +3859,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "401a94ef-c6bd-14a9-e560-04fbb8a1fbd7",
+			"guid": "51acc9f2-9214-d33a-0858-cbb827659087",
 			"name": "puddle_mask",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/puddle_mask.dds",
 				"%engine%/engineassets/textures/rain/puddle_mask.dds.1",
@@ -3881,9 +3881,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "6d512cf9-295b-f4ca-e731-ab5ca4ac90ee",
+			"guid": "59f9ff1b-dcba-9555-8c69-aef2d972fba5",
 			"name": "rain_spatter",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/rain_spatter.dds",
 				"%engine%/engineassets/textures/rain/rain_spatter.dds.1",
@@ -3902,9 +3902,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "de09d8e4-bd36-f972-564f-bb18a58b27be",
+			"guid": "f6b59bf7-8927-a999-e4cf-7ac30d1d878d",
 			"name": "rain_streak",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/rain_streak.dds",
 				"%engine%/engineassets/textures/rain/rain_streak.dds.1",
@@ -3924,9 +3924,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "49782579-50f7-c04d-706c-053ae5919c6c",
+			"guid": "f4d8a6e0-ce3d-b737-33ba-07e5608d32fb",
 			"name": "rainfall",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/rainfall.dds",
 				"%engine%/engineassets/textures/rain/rainfall.dds.1",
@@ -3946,9 +3946,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "392673d9-5239-742c-6c6b-2347398bfbac",
+			"guid": "579fc10a-10c2-083a-9cad-80f8fc4a76c5",
 			"name": "rainfall_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/rainfall_ddn.dds",
 				"%engine%/engineassets/textures/rain/rainfall_ddn.dds.1",
@@ -3968,9 +3968,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "84e17ece-e9ad-106c-220a-173664aa9155",
+			"guid": "04e4cb82-bb7f-6833-15ef-00901eb4ea09",
 			"name": "ripple10_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple10_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple10_ddn.dds.1",
@@ -3989,9 +3989,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "9b3d0061-5d6d-841c-672d-ed9344f40271",
+			"guid": "45b14698-6d7a-1b35-a51d-1c85b3f4f82f",
 			"name": "ripple11_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple11_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple11_ddn.dds.1",
@@ -4010,9 +4010,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "6b81f430-6183-41c7-b195-3fe5286babce",
+			"guid": "d3eeb9a7-eaac-b6af-3860-2fa8dfde398d",
 			"name": "ripple12_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple12_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple12_ddn.dds.1",
@@ -4031,9 +4031,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "11b1854e-6ce7-b82b-8ad5-49529926ddca",
+			"guid": "a68aab10-f643-c46c-f2bf-d61b4769c294",
 			"name": "ripple13_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple13_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple13_ddn.dds.1",
@@ -4052,9 +4052,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "b2be2596-e87c-c318-5b04-e578623e7a9e",
+			"guid": "a21aece6-ed44-8fa9-7265-aff97b3d1ccb",
 			"name": "ripple14_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple14_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple14_ddn.dds.1",
@@ -4073,9 +4073,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "7c264900-fc4c-9a79-42bb-76b9c0604443",
+			"guid": "dfa6dc2a-32aa-a078-8603-ab3443c62aa2",
 			"name": "ripple15_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple15_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple15_ddn.dds.1",
@@ -4094,9 +4094,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "8317d0f1-66d7-9689-abd1-b1528e7e840a",
+			"guid": "0ce2b0e1-6da2-74ad-eacb-d8b912bb55ad",
 			"name": "ripple16_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple16_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple16_ddn.dds.1",
@@ -4115,9 +4115,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "bed36fe0-281f-d382-24f6-7b17c5b43eee",
+			"guid": "8abfdafc-a0ad-5521-f01f-df5659c137ca",
 			"name": "ripple17_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple17_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple17_ddn.dds.1",
@@ -4136,9 +4136,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a595f515-3f8c-04f7-339c-32cc8774ca6c",
+			"guid": "5a20071a-d595-86a4-05ae-900cedb2438b",
 			"name": "ripple18_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple18_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple18_ddn.dds.1",
@@ -4157,9 +4157,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "29bbeeb1-4a52-a59c-faba-5dea98b665e5",
+			"guid": "c9eb8a1a-0a95-b517-165e-a67c185e1a6e",
 			"name": "ripple19_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple19_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple19_ddn.dds.1",
@@ -4178,9 +4178,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "ac85a40b-e7a2-471c-c634-3539c1cadd2a",
+			"guid": "c52fdca0-b823-0e6b-e9dc-24cd46eb630a",
 			"name": "ripple1_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple1_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple1_ddn.dds.1",
@@ -4199,9 +4199,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "549e962f-0a83-8f6a-7648-3726842c04a4",
+			"guid": "b2f2fba8-877f-11ba-b0b6-b46881bfea80",
 			"name": "ripple20_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple20_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple20_ddn.dds.1",
@@ -4220,9 +4220,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "f5c07cdf-0d4a-c6a1-b4b1-57ac42181b96",
+			"guid": "0699d2f3-90b6-6051-bab7-90d988951dc2",
 			"name": "ripple21_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple21_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple21_ddn.dds.1",
@@ -4241,9 +4241,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "70b3c891-8163-2167-a594-2b89d536ed37",
+			"guid": "3ead0b87-2c5d-6f6a-042f-f12dde359319",
 			"name": "ripple22_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple22_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple22_ddn.dds.1",
@@ -4262,9 +4262,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "3eeda030-0731-79c1-a65e-ae65a119f805",
+			"guid": "7c9276dd-5e9e-9abb-7cb6-ddd6ecc704bc",
 			"name": "ripple23_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple23_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple23_ddn.dds.1",
@@ -4283,9 +4283,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "3b4b6f00-0b4a-57ef-ca32-1654f01bc815",
+			"guid": "319cbfca-efb7-c236-13a3-f0cd130b90d8",
 			"name": "ripple24_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple24_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple24_ddn.dds.1",
@@ -4304,9 +4304,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "6cdc5873-cce5-a84b-2dca-36691e816780",
+			"guid": "608a3b54-7c5c-957d-7b0f-c294ae7bb149",
 			"name": "ripple2_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple2_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple2_ddn.dds.1",
@@ -4325,9 +4325,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "39489828-4931-42f8-0c2e-4285f61330ec",
+			"guid": "8d871c64-e415-683b-56f9-56536d607652",
 			"name": "ripple3_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple3_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple3_ddn.dds.1",
@@ -4346,9 +4346,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a20cc0a6-e82a-d92b-e85f-8951c66944cc",
+			"guid": "84a74872-81cf-80ce-34c7-182df74e0362",
 			"name": "ripple4_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple4_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple4_ddn.dds.1",
@@ -4367,9 +4367,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "fe77b055-0bdc-eff8-69bc-971d251d5eea",
+			"guid": "c4dc657c-31e9-9c43-832d-da54800554c6",
 			"name": "ripple5_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple5_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple5_ddn.dds.1",
@@ -4388,9 +4388,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a3cfcfc0-d46d-9aeb-e66e-ecfa07f66cb3",
+			"guid": "e25c8ba3-bd8e-6fbb-690c-eadbe4c49456",
 			"name": "ripple6_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple6_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple6_ddn.dds.1",
@@ -4409,9 +4409,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "c7fee253-c1b1-c233-6434-0762ec812650",
+			"guid": "954871ab-0d66-aa2c-89ee-21124628342a",
 			"name": "ripple7_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple7_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple7_ddn.dds.1",
@@ -4430,9 +4430,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "1f1969df-b185-74ab-b821-e16a91dd223c",
+			"guid": "4efa19fd-ac0f-2922-e366-8dcefdc6c9ec",
 			"name": "ripple8_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple8_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple8_ddn.dds.1",
@@ -4451,9 +4451,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "616fbb69-47c1-071e-c887-6877dd08d7d7",
+			"guid": "9206d6f4-dc3c-2198-c7d8-79a0b306f805",
 			"name": "ripple9_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple9_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple9_ddn.dds.1",
@@ -4472,9 +4472,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "eab9c05e-5370-980c-9b1e-7772ca4d2115",
+			"guid": "7d06fcd0-1f09-a5d9-bb30-0543f0b300e0",
 			"name": "surface_flow_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/surface_flow_ddn.dds",
 				"%engine%/engineassets/textures/rain/surface_flow_ddn.dds.1",
@@ -4493,9 +4493,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "36de297b-05cf-ff39-482e-2fba115ad3e3",
+			"guid": "5d276396-4db3-e733-9480-a5985bee87ee",
 			"name": "rotrandom",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/rotrandom.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/textures/rotrandom.dds.cryasset",
@@ -4504,9 +4504,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "24b1082b-fda9-ec2b-69dc-f935e9c21785",
+			"guid": "c5ea6e20-5843-c79f-19b1-af508441f058",
 			"name": "rotrandomcm",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/rotrandomcm.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/textures/rotrandomcm.dds.cryasset",
@@ -4519,9 +4519,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "8c2d3a2b-f559-1054-9edf-a3b617726a5c",
+			"guid": "ab848e5a-ce05-3ae8-fcdb-ea39b56774a7",
 			"name": "scratch",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/scratch.dds",
 				"%engine%/engineassets/textures/scratch.dds.1",
@@ -4541,9 +4541,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "359982e6-b316-fb3a-5455-0f1fc9a3a3ee",
+			"guid": "d7796476-db33-ee88-35dc-37a92fce5f40",
 			"name": "scratch_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/scratch_ddn.dds",
 				"%engine%/engineassets/textures/scratch_ddn.dds.1",
@@ -4563,9 +4563,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "18d4eeb1-6f0b-fb18-b3c1-b89ecea2994d",
+			"guid": "2ecbacd0-67f9-2cec-ca34-54357ad31931",
 			"name": "screen_noisy_bump",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [ "%engine%/engineassets/textures/screen_noisy_bump.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/textures/screen_noisy_bump.dds.cryasset",
@@ -4578,9 +4578,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "4b9bbe2b-3309-460c-ad57-82b96ae0f6a1",
+			"guid": "b8e5e74d-8f1c-53c3-3848-b410ac020e91",
 			"name": "screenfrost_alpha",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/screenfrost_alpha.dds",
 				"%engine%/engineassets/textures/screenfrost_alpha.dds.1",
@@ -4600,9 +4600,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "9d6b8e3d-b2e7-9792-12e2-18c1fdf646af",
+			"guid": "09888d8a-d59e-022b-bbd6-5a79a181213b",
 			"name": "screenfrost_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793340000000,
 			"files": [
 				"%engine%/engineassets/textures/screenfrost_ddn.dds",
 				"%engine%/engineassets/textures/screenfrost_ddn.dds.1",
@@ -4622,9 +4622,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "cb5d2458-7709-5735-720d-4fd28210260b",
+			"guid": "8c2ee4f2-2951-165d-2619-376105a82438",
 			"name": "half_moon",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/skys/night/half_moon.dds",
 				"%engine%/engineassets/textures/skys/night/half_moon.dds.1",
@@ -4645,9 +4645,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "5833b6f5-9028-3e58-d92f-d334a2073c4a",
+			"guid": "512967e1-19e5-b493-c651-72684523c756",
 			"name": "snowflakes",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/snowflakes.dds",
 				"%engine%/engineassets/textures/snowflakes.dds.1",
@@ -4666,9 +4666,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "01281225-858f-5388-815f-dfbf135727a6",
+			"guid": "942cd80d-ef4f-cfa6-3fc3-0940e75b70cb",
 			"name": "startscreen_eaas",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/startscreen_eaas.dds" ],
 			"source": "%engine%/engineassets/textures/startscreen_eaas.tif",
 			"metadata": "%engine%/engineassets/textures/startscreen_eaas.dds.cryasset",
@@ -4681,9 +4681,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "08d5bccf-6db6-c39c-2a23-42744c467ff5",
+			"guid": "b08db159-2e99-6846-be5b-5e2476100df1",
 			"name": "texelspermetergrad",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/TexelsPerMeterGrad.dds" ],
 			"source": "%engine%/engineassets/textures/TexelsPerMeterGrad.tif",
 			"metadata": "%engine%/engineassets/textures/texelspermetergrad.dds.cryasset",
@@ -4696,9 +4696,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a2c51271-fb0a-1059-513e-a27eb8f97053",
+			"guid": "6395a52b-c768-6e38-7f21-e9f8c7e651ab",
 			"name": "vector_noise",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/vector_noise.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/textures/vector_noise.dds.cryasset",
@@ -4711,9 +4711,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "c4e7c9bd-97d4-3f5c-5d3d-32c5c2cc6477",
+			"guid": "7f081c5f-de2a-daa9-53a7-e9d1039b21d0",
 			"name": "volumeraster",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/VolumeRaster.dds" ],
 			"source": "%engine%/engineassets/textures/VolumeRaster.tif",
 			"metadata": "%engine%/engineassets/textures/volumeraster.dds.cryasset",
@@ -4726,9 +4726,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a816afd7-6470-fe69-b3cf-b22bd1e683a5",
+			"guid": "2721be75-45b6-1e9e-da89-d72ed73d0bea",
 			"name": "water_droplets",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/water_droplets.dds" ],
 			"source": "",
 			"metadata": "%engine%/engineassets/textures/water_droplets.dds.cryasset",
@@ -4741,9 +4741,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "dbd73aad-a074-e461-2656-dca77a9a7307",
+			"guid": "c62c6832-03e7-9514-ebf3-f226c06899ff",
 			"name": "water_gloss",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/water_gloss.dds",
 				"%engine%/engineassets/textures/water_gloss.dds.1",
@@ -4763,9 +4763,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "30c0544d-9559-be13-7075-3df49c1012bb",
+			"guid": "92ff511a-6fb8-932b-0920-8d2e2f898855",
 			"name": "white",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/white.dds" ],
 			"source": "%engine%/engineassets/textures/white.tif",
 			"metadata": "%engine%/engineassets/textures/white.dds.cryasset",
@@ -4778,9 +4778,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "2e90b565-b4a4-64ba-91f2-d28a89640b0c",
+			"guid": "f3f28767-7006-df07-4395-fb1bc4a405ef",
 			"name": "white_cm",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [
 				"%engine%/engineassets/textures/white_cm.dds",
 				"%engine%/engineassets/textures/white_cm.dds.1",
@@ -4799,9 +4799,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "78f12348-a6c7-5aed-e50d-a187202aa010",
+			"guid": "990f007f-d949-cd24-f097-936fe8cb0ca2",
 			"name": "white_cm_diff",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/white_cm_diff.dds" ],
 			"source": "%engine%/engineassets/textures/white_cm.tif",
 			"metadata": "%engine%/engineassets/textures/white_cm_diff.dds.cryasset",
@@ -4814,9 +4814,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "0d25ee07-850d-8670-abe9-fc128835bb11",
+			"guid": "c5fbbd98-6263-82da-981a-ba61524fb1f9",
 			"name": "white_ddn",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/engineassets/textures/white_ddn.dds" ],
 			"source": "%engine%/engineassets/textures/white_ddn.tif",
 			"metadata": "%engine%/engineassets/textures/white_ddn.dds.cryasset",
@@ -4829,9 +4829,9 @@
 		},
 		{
 			"type": "Xml",
-			"guid": "ef7bdce6-f70f-045c-0ea4-18ea842864d3",
+			"guid": "4c5105f0-b1e8-76dc-bb73-8d71d23b55b7",
 			"name": "console",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/fonts/console.xml" ],
 			"source": "",
 			"metadata": "%engine%/fonts/console.xml.cryasset",
@@ -4840,9 +4840,9 @@
 		},
 		{
 			"type": "Xml",
-			"guid": "5d5d01f6-71ab-6982-3e48-787515763c4f",
+			"guid": "a72e876a-7f87-9165-94a6-0311c1bceaf7",
 			"name": "default",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/fonts/default.xml" ],
 			"source": "",
 			"metadata": "%engine%/fonts/default.xml.cryasset",
@@ -4851,9 +4851,9 @@
 		},
 		{
 			"type": "Xml",
-			"guid": "6bf6a7c5-dd94-f777-6079-fe75f945396e",
+			"guid": "e6e88d56-8377-cf04-3c7f-e6218b1d0674",
 			"name": "hud",
-			"timestamp": 131786737080000000,
+			"timestamp": 131811793360000000,
 			"files": [ "%engine%/fonts/hud.xml" ],
 			"source": "",
 			"metadata": "%engine%/fonts/hud.xml.cryasset",
@@ -4864,7 +4864,7 @@
 			"type": "Animation",
 			"guid": "2c665e1c-3eb3-84f9-4d3d-4a90a3da70fe",
 			"name": "reference_preview_0",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/editor/reference_preview_0.caf" ],
 			"source": "",
 			"metadata": "Animations/editor/reference_preview_0.caf.cryasset",
@@ -4875,7 +4875,7 @@
 			"type": "Xml",
 			"guid": "d98bd87e-80ac-5efd-e106-e2966ac7d605",
 			"name": "FirstPersonControllerDefinition",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/Mannequin/ADB/FirstPersonControllerDefinition.xml" ],
 			"source": "",
 			"metadata": "Animations/Mannequin/ADB/FirstPersonControllerDefinition.xml.cryasset",
@@ -4886,7 +4886,7 @@
 			"type": "Xml",
 			"guid": "4fb8921f-e98a-6bf4-38d7-ff876089148a",
 			"name": "PlayerFragmentIds",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/Mannequin/ADB/PlayerFragmentIds.xml" ],
 			"source": "",
 			"metadata": "Animations/Mannequin/ADB/PlayerFragmentIds.xml.cryasset",
@@ -4897,7 +4897,7 @@
 			"type": "Xml",
 			"guid": "05f32513-7015-eba6-7ed3-632b599def30",
 			"name": "PlayerTags",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/Mannequin/ADB/PlayerTags.xml" ],
 			"source": "",
 			"metadata": "Animations/Mannequin/ADB/PlayerTags.xml.cryasset",
@@ -4908,7 +4908,7 @@
 			"type": "Xml",
 			"guid": "63ea36bd-4f59-4a62-04e4-b55a83877d8b",
 			"name": "Player",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/Mannequin/Preview/Player.xml" ],
 			"source": "",
 			"metadata": "Animations/Mannequin/Preview/Player.xml.cryasset",
@@ -4919,7 +4919,7 @@
 			"type": "Animation",
 			"guid": "869cadc1-63cf-97fa-9a0a-cb380d8c16a8",
 			"name": "idle_to_jog_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/ide2Move/idle_to_jog_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/ide2Move/idle_to_jog_3p.caf.cryasset",
@@ -4930,7 +4930,7 @@
 			"type": "Animation",
 			"guid": "bd2f4ad2-46f1-4167-b4c8-dab3c9b32141",
 			"name": "idle_to_run_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/ide2Move/idle_to_run_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/ide2Move/idle_to_run_3p.caf.cryasset",
@@ -4941,7 +4941,7 @@
 			"type": "Animation",
 			"guid": "3b0b5077-1b02-ea4e-2c3c-34edf77a3e83",
 			"name": "idle_to_walk_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/ide2Move/idle_to_walk_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/ide2Move/idle_to_walk_3p.caf.cryasset",
@@ -4952,7 +4952,7 @@
 			"type": "Animation",
 			"guid": "7233d4ea-c6be-401d-9c8b-4c06793df902",
 			"name": "jog_to_idle_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/ide2Move/jog_to_idle_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/ide2Move/jog_to_idle_3p.caf.cryasset",
@@ -4963,7 +4963,7 @@
 			"type": "Animation",
 			"guid": "eb9a1d33-f7b8-5884-5741-c53e8f8f5f13",
 			"name": "run_to_idle_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/ide2Move/run_to_idle_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/ide2Move/run_to_idle_3p.caf.cryasset",
@@ -4974,7 +4974,7 @@
 			"type": "Animation",
 			"guid": "f96365eb-78b4-7da2-e59c-1d59f2c315a7",
 			"name": "walk_to_idle_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/ide2Move/walk_to_idle_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/ide2Move/walk_to_idle_3p.caf.cryasset",
@@ -4985,7 +4985,7 @@
 			"type": "Animation",
 			"guid": "a93a9d0d-8fa2-6ac2-c4ef-fb3ffca43c72",
 			"name": "idle_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/idle_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/idle_3p.caf.cryasset",
@@ -4996,7 +4996,7 @@
 			"type": "Animation",
 			"guid": "deb576b2-b449-e5ba-dd5b-44a4cea03860",
 			"name": "jog_bck_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/jog_bck_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/jog_bck_3p.caf.cryasset",
@@ -5007,7 +5007,7 @@
 			"type": "Animation",
 			"guid": "6b30d7cb-54b3-c62e-993c-9e46715125aa",
 			"name": "jog_fwd_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/jog_fwd_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/jog_fwd_3p.caf.cryasset",
@@ -5018,7 +5018,7 @@
 			"type": "Animation",
 			"guid": "43d6dbdc-9dd4-feb7-1e82-32966d80a6b8",
 			"name": "rifleAim_idle_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/rifleAnims/rifleAim_idle_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/rifleAnims/rifleAim_idle_3p.caf.cryasset",
@@ -5029,7 +5029,7 @@
 			"type": "Animation",
 			"guid": "ddec00fd-a8f6-8855-42fc-6970da361b88",
 			"name": "rifleWalkAim_bwd_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/rifleAnims/rifleWalkAim_bwd_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/rifleAnims/rifleWalkAim_bwd_3p.caf.cryasset",
@@ -5040,7 +5040,7 @@
 			"type": "Animation",
 			"guid": "79c8a532-b780-c105-f9e3-5830bfc79517",
 			"name": "rifleWalkAim_fwd_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/rifleAnims/rifleWalkAim_fwd_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/rifleAnims/rifleWalkAim_fwd_3p.caf.cryasset",
@@ -5051,7 +5051,7 @@
 			"type": "Animation",
 			"guid": "1788049e-9718-e2cb-020e-faba0e965375",
 			"name": "stepRifleAimRotate_lft_90_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/rifleAnims/stepRifleAimRotate_lft_90_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/rifleAnims/stepRifleAimRotate_lft_90_3p.caf.cryasset",
@@ -5062,7 +5062,7 @@
 			"type": "Animation",
 			"guid": "0647df36-a14b-e8f5-53be-f7b1729cfe4f",
 			"name": "stepRifleAimRotate_rgt_90_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/rifleAnims/stepRifleAimRotate_rgt_90_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/rifleAnims/stepRifleAimRotate_rgt_90_3p.caf.cryasset",
@@ -5073,7 +5073,7 @@
 			"type": "Animation",
 			"guid": "010bf3b7-c686-7096-9a88-e2b9203315a8",
 			"name": "walkcrossRifleAim_bck_lft_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/rifleAnims/walkcrossRifleAim_bck_lft_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/rifleAnims/walkcrossRifleAim_bck_lft_3p.caf.cryasset",
@@ -5084,7 +5084,7 @@
 			"type": "Animation",
 			"guid": "18b9ec3e-4638-653f-80d1-b91e56c0980b",
 			"name": "walkcrossRifleAim_bck_rgt_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/rifleAnims/walkcrossRifleAim_bck_rgt_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/rifleAnims/walkcrossRifleAim_bck_rgt_3p.caf.cryasset",
@@ -5095,7 +5095,7 @@
 			"type": "Animation",
 			"guid": "1bd6e215-5956-99f2-2877-25bbe47a5767",
 			"name": "walkcrossRifleAim_fwd_lft_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/rifleAnims/walkcrossRifleAim_fwd_lft_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/rifleAnims/walkcrossRifleAim_fwd_lft_3p.caf.cryasset",
@@ -5106,7 +5106,7 @@
 			"type": "Animation",
 			"guid": "95177d67-58a7-664f-e08c-4f36430cded8",
 			"name": "walkcrossRifleAim_fwd_rgt_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/rifleAnims/walkcrossRifleAim_fwd_rgt_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/rifleAnims/walkcrossRifleAim_fwd_rgt_3p.caf.cryasset",
@@ -5117,7 +5117,7 @@
 			"type": "Animation",
 			"guid": "6350524f-424c-eed2-5907-49af056e4445",
 			"name": "walkstrafeRifleAim_lft_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/rifleAnims/walkstrafeRifleAim_lft_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/rifleAnims/walkstrafeRifleAim_lft_3p.caf.cryasset",
@@ -5128,7 +5128,7 @@
 			"type": "Animation",
 			"guid": "a0f37153-09c5-6cf0-ef79-18501e85efbb",
 			"name": "walkstrafeRifleAim_rgt_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/rifleAnims/walkstrafeRifleAim_rgt_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/rifleAnims/walkstrafeRifleAim_rgt_3p.caf.cryasset",
@@ -5139,7 +5139,7 @@
 			"type": "Animation",
 			"guid": "3ca77bf4-ff1d-b0a0-1526-e3a6db7447b9",
 			"name": "run_fwd_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/run_fwd_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/run_fwd_3p.caf.cryasset",
@@ -5150,7 +5150,7 @@
 			"type": "Animation",
 			"guid": "8628c844-7f76-3f11-3d65-f202573e3df4",
 			"name": "stepRotate_lft_135_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/stepRotate/stepRotate_lft_135_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/stepRotate/stepRotate_lft_135_3p.caf.cryasset",
@@ -5161,7 +5161,7 @@
 			"type": "Animation",
 			"guid": "4a329ec1-54ac-6594-a2d6-5e2fcb78bce3",
 			"name": "stepRotate_lft_180_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/stepRotate/stepRotate_lft_180_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/stepRotate/stepRotate_lft_180_3p.caf.cryasset",
@@ -5172,7 +5172,7 @@
 			"type": "Animation",
 			"guid": "b147ff11-94a1-540a-3497-8f177012b47b",
 			"name": "stepRotate_lft_45_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/stepRotate/stepRotate_lft_45_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/stepRotate/stepRotate_lft_45_3p.caf.cryasset",
@@ -5183,7 +5183,7 @@
 			"type": "Animation",
 			"guid": "02f88af8-1158-e7eb-4ed7-e400121ea341",
 			"name": "stepRotate_lft_90_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/stepRotate/stepRotate_lft_90_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/stepRotate/stepRotate_lft_90_3p.caf.cryasset",
@@ -5194,7 +5194,7 @@
 			"type": "Animation",
 			"guid": "e84c909d-e677-c436-21b1-265dfb6bf4aa",
 			"name": "stepRotate_rgt_135_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/stepRotate/stepRotate_rgt_135_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/stepRotate/stepRotate_rgt_135_3p.caf.cryasset",
@@ -5205,7 +5205,7 @@
 			"type": "Animation",
 			"guid": "51bae4f5-efba-854a-d493-5bd5a0724c5d",
 			"name": "stepRotate_rgt_180_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/stepRotate/stepRotate_rgt_180_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/stepRotate/stepRotate_rgt_180_3p.caf.cryasset",
@@ -5216,7 +5216,7 @@
 			"type": "Animation",
 			"guid": "897b9f61-9a99-c326-3f8a-545b8b697c06",
 			"name": "stepRotate_rgt_45_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/stepRotate/stepRotate_rgt_45_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/stepRotate/stepRotate_rgt_45_3p.caf.cryasset",
@@ -5227,7 +5227,7 @@
 			"type": "Animation",
 			"guid": "f692d7d6-f50b-9074-3960-b24003af7eda",
 			"name": "stepRotate_rgt_90_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/stepRotate/stepRotate_rgt_90_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/stepRotate/stepRotate_rgt_90_3p.caf.cryasset",
@@ -5238,7 +5238,7 @@
 			"type": "Animation",
 			"guid": "6a5081fd-379d-ef31-62e6-83b814b81e51",
 			"name": "jogcross_bck_lft_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/strafe/jogcross_bck_lft_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/strafe/jogcross_bck_lft_3p.caf.cryasset",
@@ -5249,7 +5249,7 @@
 			"type": "Animation",
 			"guid": "db0d89ae-71b4-6d2a-87b0-ffbcd9e3bd97",
 			"name": "jogcross_bck_rgt_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/strafe/jogcross_bck_rgt_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/strafe/jogcross_bck_rgt_3p.caf.cryasset",
@@ -5260,7 +5260,7 @@
 			"type": "Animation",
 			"guid": "87dba157-3b2b-7409-51ba-093d3cb9faf2",
 			"name": "jogcross_fwd_lft_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/strafe/jogcross_fwd_lft_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/strafe/jogcross_fwd_lft_3p.caf.cryasset",
@@ -5271,7 +5271,7 @@
 			"type": "Animation",
 			"guid": "fe4e175d-5e8e-df96-0088-95e09788e567",
 			"name": "jogcross_fwd_rgt_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/strafe/jogcross_fwd_rgt_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/strafe/jogcross_fwd_rgt_3p.caf.cryasset",
@@ -5282,7 +5282,7 @@
 			"type": "Animation",
 			"guid": "ecbf8160-af06-db59-a50c-32a9f80a3a40",
 			"name": "jogstrafe_lft_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/strafe/jogstrafe_lft_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/strafe/jogstrafe_lft_3p.caf.cryasset",
@@ -5293,7 +5293,7 @@
 			"type": "Animation",
 			"guid": "7a11d8be-ad2a-10af-8854-03de6b068637",
 			"name": "jogstrafe_rgt_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/strafe/jogstrafe_rgt_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/strafe/jogstrafe_rgt_3p.caf.cryasset",
@@ -5304,7 +5304,7 @@
 			"type": "Animation",
 			"guid": "e52657ca-ed89-1a4e-0909-aef07bd7529b",
 			"name": "runcross_fwd_lft_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/strafe/runcross_fwd_lft_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/strafe/runcross_fwd_lft_3p.caf.cryasset",
@@ -5315,7 +5315,7 @@
 			"type": "Animation",
 			"guid": "82283693-d5a7-73b9-137e-0d2faa2646e9",
 			"name": "runcross_fwd_rgt_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/strafe/runcross_fwd_rgt_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/strafe/runcross_fwd_rgt_3p.caf.cryasset",
@@ -5326,7 +5326,7 @@
 			"type": "Animation",
 			"guid": "638ccaf0-4f0c-158c-23c4-3dd18051fefa",
 			"name": "runstrafe_lft_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/strafe/runstrafe_lft_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/strafe/runstrafe_lft_3p.caf.cryasset",
@@ -5337,7 +5337,7 @@
 			"type": "Animation",
 			"guid": "817d2acf-bf29-949f-8941-ca100cbac0ef",
 			"name": "runstrafe_rgt_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/strafe/runstrafe_rgt_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/strafe/runstrafe_rgt_3p.caf.cryasset",
@@ -5348,7 +5348,7 @@
 			"type": "Animation",
 			"guid": "718836ab-c31d-8edb-0c7d-5a4010be90fe",
 			"name": "walkcross_bck_lft_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/strafe/walkcross_bck_lft_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/strafe/walkcross_bck_lft_3p.caf.cryasset",
@@ -5359,7 +5359,7 @@
 			"type": "Animation",
 			"guid": "09fd85d8-d823-08d0-6e10-055f30b7a346",
 			"name": "walkcross_bck_rgt_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/strafe/walkcross_bck_rgt_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/strafe/walkcross_bck_rgt_3p.caf.cryasset",
@@ -5370,7 +5370,7 @@
 			"type": "Animation",
 			"guid": "29c0c6e0-7c5e-9166-1725-665b01d1762e",
 			"name": "walkcross_fwd_lft_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/strafe/walkcross_fwd_lft_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/strafe/walkcross_fwd_lft_3p.caf.cryasset",
@@ -5381,7 +5381,7 @@
 			"type": "Animation",
 			"guid": "28743d91-da91-57dc-0a8a-aa57844aae8b",
 			"name": "walkcross_fwd_rgt_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/strafe/walkcross_fwd_rgt_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/strafe/walkcross_fwd_rgt_3p.caf.cryasset",
@@ -5392,7 +5392,7 @@
 			"type": "Animation",
 			"guid": "db88f648-9485-ac68-baba-72fd602e6cb0",
 			"name": "walkstrafe_lft_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/strafe/walkstrafe_lft_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/strafe/walkstrafe_lft_3p.caf.cryasset",
@@ -5403,7 +5403,7 @@
 			"type": "Animation",
 			"guid": "51eae0c3-d9cd-a4bc-eaa7-3d7affb3c9a9",
 			"name": "walkstrafe_rgt_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/strafe/walkstrafe_rgt_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/strafe/walkstrafe_rgt_3p.caf.cryasset",
@@ -5414,7 +5414,7 @@
 			"type": "Animation",
 			"guid": "94f123b7-9105-bc2f-88cb-2aa21384ad6b",
 			"name": "jogturn_lft_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/turns/jogturn_lft_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/turns/jogturn_lft_3p.caf.cryasset",
@@ -5425,7 +5425,7 @@
 			"type": "Animation",
 			"guid": "8de82c93-46e4-072f-054c-a7a759c58c2e",
 			"name": "jogturn_rgt_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/turns/jogturn_rgt_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/turns/jogturn_rgt_3p.caf.cryasset",
@@ -5436,7 +5436,7 @@
 			"type": "Animation",
 			"guid": "d08281cc-e135-113b-814a-55663371a0a1",
 			"name": "runturn_lft_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/turns/runturn_lft_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/turns/runturn_lft_3p.caf.cryasset",
@@ -5447,7 +5447,7 @@
 			"type": "Animation",
 			"guid": "2908ba62-a68e-c367-8e79-17436a9ab65f",
 			"name": "runturn_rgt_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/turns/runturn_rgt_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/turns/runturn_rgt_3p.caf.cryasset",
@@ -5458,7 +5458,7 @@
 			"type": "Animation",
 			"guid": "feebe938-4e71-c167-fede-cb85689741ca",
 			"name": "walkturn_lft_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/turns/walkturn_lft_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/turns/walkturn_lft_3p.caf.cryasset",
@@ -5469,7 +5469,7 @@
 			"type": "Animation",
 			"guid": "ac78ffc3-25da-f29e-d0c1-2a1f6ce6c807",
 			"name": "walkturn_rgt_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/turns/walkturn_rgt_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/turns/walkturn_rgt_3p.caf.cryasset",
@@ -5480,7 +5480,7 @@
 			"type": "Animation",
 			"guid": "f76a6ea9-5f19-2c73-16c4-dec4a5ca2616",
 			"name": "walk_bck_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/walk_bck_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/walk_bck_3p.caf.cryasset",
@@ -5491,7 +5491,7 @@
 			"type": "Animation",
 			"guid": "c0d928d6-1bfc-df37-706d-64f6c91eafda",
 			"name": "walk_fwd_3p",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/motusAnims/walk_fwd_3p.caf" ],
 			"source": "",
 			"metadata": "Animations/motusAnims/walk_fwd_3p.caf.cryasset",
@@ -5502,7 +5502,7 @@
 			"type": "Xml",
 			"guid": "eb2e32d1-d4f6-54de-9d16-99f98d26449c",
 			"name": "skeletonlist",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Animations/skeletonlist.xml" ],
 			"source": "",
 			"metadata": "Animations/skeletonlist.xml.cryasset",
@@ -5513,7 +5513,7 @@
 			"type": "Xml",
 			"guid": "73f227bd-3040-2cfe-8a59-1ad3e8988d43",
 			"name": "default_controls",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Audio/sdlmixer/ace/default_controls.xml" ],
 			"source": "",
 			"metadata": "Audio/sdlmixer/ace/default_controls.xml.cryasset",
@@ -5524,7 +5524,7 @@
 			"type": "Xml",
 			"guid": "182f7d9c-6292-4b59-c084-7b6850756de9",
 			"name": "my_triggers",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Audio/sdlmixer/ace/my_triggers.xml" ],
 			"source": "",
 			"metadata": "Audio/sdlmixer/ace/my_triggers.xml.cryasset",
@@ -5535,7 +5535,7 @@
 			"type": "Level",
 			"guid": "90f6f9d4-0804-283c-02dc-2d438ba572bd",
 			"name": "example",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Levels/example/example.level" ],
 			"source": "",
 			"metadata": "Levels/example.level.cryasset",
@@ -5888,7 +5888,7 @@
 			"type": "Xml",
 			"guid": "ae4b13f3-4538-6d5a-90fd-5c018c529664",
 			"name": "filelist",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Levels/example/filelist.xml" ],
 			"source": "",
 			"metadata": "Levels/example/filelist.xml.cryasset",
@@ -5899,7 +5899,7 @@
 			"type": "Xml",
 			"guid": "5d430851-0b64-e3d9-eced-d92b883a03a9",
 			"name": "Environment",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Levels/example/leveldata/Environment.xml" ],
 			"source": "",
 			"metadata": "Levels/example/leveldata/Environment.xml.cryasset",
@@ -5910,7 +5910,7 @@
 			"type": "Xml",
 			"guid": "acf1acd1-3a16-3c99-fb3f-965fe6b9cc23",
 			"name": "defaultprofile",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Libs/config/defaultprofile.xml" ],
 			"source": "",
 			"metadata": "Libs/config/defaultprofile.xml.cryasset",
@@ -5921,7 +5921,7 @@
 			"type": "Xml",
 			"guid": "eb5d8f63-9f5d-dc89-24da-8188058d7f08",
 			"name": "actionmaps",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Libs/config/Profiles/default/actionmaps.xml" ],
 			"source": "",
 			"metadata": "Libs/config/Profiles/default/actionmaps.xml.cryasset",
@@ -5932,7 +5932,7 @@
 			"type": "Xml",
 			"guid": "0293d57c-d88e-49d7-77d4-c8a017b5f0d0",
 			"name": "attributes",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Libs/config/Profiles/default/attributes.xml" ],
 			"source": "",
 			"metadata": "Libs/config/Profiles/default/attributes.xml.cryasset",
@@ -5943,7 +5943,7 @@
 			"type": "Xml",
 			"guid": "452472c7-8a8d-b73e-58e9-2508ea705deb",
 			"name": "levelrotation",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Libs/config/Profiles/default/levelrotation/levelrotation.xml" ],
 			"source": "",
 			"metadata": "Libs/config/Profiles/default/levelrotation/levelrotation.xml.cryasset",
@@ -5954,7 +5954,7 @@
 			"type": "Xml",
 			"guid": "70e07507-0b78-be61-0845-499d1a303962",
 			"name": "profile",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Libs/config/Profiles/default/profile.xml" ],
 			"source": "",
 			"metadata": "Libs/config/Profiles/default/profile.xml.cryasset",
@@ -5965,7 +5965,7 @@
 			"type": "Xml",
 			"guid": "07f6c12f-c5ae-1009-eb98-ed0c3040f5e2",
 			"name": "example",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Libs/environmentpresets/example.xml" ],
 			"source": "",
 			"metadata": "Libs/environmentpresets/example.xml.cryasset",
@@ -5976,7 +5976,7 @@
 			"type": "Xml",
 			"guid": "c2ba8526-26f5-cc24-fcc2-5a93abdca8fd",
 			"name": "testlevel",
-			"timestamp": 1537390191,
+			"timestamp": 1537527327,
 			"files": [ "Libs/environmentpresets/testlevel.xml" ],
 			"source": "",
 			"metadata": "Libs/environmentpresets/testlevel.xml.cryasset",
@@ -5987,7 +5987,7 @@
 			"type": "Xml",
 			"guid": "4a809d3a-79a3-4774-f8a5-a8e74bcbac9f",
 			"name": "FlownodeBlacklist",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Libs/flownodes/FlownodeBlacklist.xml" ],
 			"source": "",
 			"metadata": "Libs/flownodes/FlownodeBlacklist.xml.cryasset",
@@ -5998,7 +5998,7 @@
 			"type": "Xml",
 			"guid": "a245fe9d-67d0-3743-172f-f57bcbd44b03",
 			"name": "Substitutions",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Libs/flownodes/Substitutions.xml" ],
 			"source": "",
 			"metadata": "Libs/flownodes/Substitutions.xml.cryasset",
@@ -6009,7 +6009,7 @@
 			"type": "Xml",
 			"guid": "eb2e1ed6-f470-be31-796f-8d0407eee541",
 			"name": "collision",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Libs/MaterialEffects/FXLibs/collision.xml" ],
 			"source": "",
 			"metadata": "Libs/MaterialEffects/FXLibs/collision.xml.cryasset",
@@ -6020,7 +6020,7 @@
 			"type": "Xml",
 			"guid": "ace02a3a-2b07-5868-7105-398e652c42c2",
 			"name": "MaterialEffects",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Libs/MaterialEffects/MaterialEffects.xml" ],
 			"source": "",
 			"metadata": "Libs/MaterialEffects/MaterialEffects.xml.cryasset",
@@ -6031,7 +6031,7 @@
 			"type": "Xml",
 			"guid": "4d907864-68d8-7186-9b93-a6ef1ee71ba9",
 			"name": "SurfaceTypes",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Libs/MaterialEffects/SurfaceTypes.xml" ],
 			"source": "",
 			"metadata": "Libs/MaterialEffects/SurfaceTypes.xml.cryasset",
@@ -6042,7 +6042,7 @@
 			"type": "Material",
 			"guid": "76452ec6-d264-9a3a-7281-6b9f58516e00",
 			"name": "bullet",
-			"timestamp": 1537344098,
+			"timestamp": 1537527327,
 			"files": [ "Materials/bullet.mtl" ],
 			"source": "",
 			"metadata": "Materials/bullet.mtl.cryasset",
@@ -6055,10 +6055,48 @@
 			]
 		},
 		{
+			"type": "Mesh",
+			"guid": "0c1b51e7-1091-57b2-29c7-f02ce4c8a4c6",
+			"name": "PurgatoryArena",
+			"timestamp": 1537563267,
+			"files": [ "Objects/Buildings/PurgatoryArena.cgf" ],
+			"source": "Objects/Buildings/PurgatoryArena.fbx",
+			"metadata": "Objects/Buildings/PurgatoryArena.cgf.cryasset",
+			"details": [
+				{ "key": "16BitPrecision", "value": "false" },
+				{ "key": "materialCount", "value": "3" },
+				{ "key": "triangleCount", "value": "14164" },
+				{ "key": "vertexCount", "value": "20699" }
+			],
+			"dependencies": [
+				{ "path": "Objects/Buildings/PurgatoryArena.mtl", "usageCount": 1 }
+			]
+		},
+		{
+			"type": "Material",
+			"guid": "74c5dba0-de68-6970-077d-a638a60b1287",
+			"name": "purgatoryarena",
+			"timestamp": 1537562329,
+			"files": [ "Objects/Buildings/purgatoryarena.mtl" ],
+			"source": "",
+			"metadata": "Objects/Buildings/purgatoryarena.mtl.cryasset",
+			"details": [
+				{ "key": "subMaterialCount", "value": "2" },
+				{ "key": "textureCount", "value": "2" }
+			],
+			"dependencies": [
+				{ "path": "%ENGINE%/EngineAssets/Textures/white.dds", "usageCount": 2 },
+				{
+					"path": "%ENGINE%/EngineAssets/Textures/white_ddn.dds",
+					"usageCount": 2
+				}
+			]
+		},
+		{
 			"type": "Character",
 			"guid": "62085da2-2031-3490-0040-54565bb02d94",
 			"name": "firstperson",
-			"timestamp": 1537344098,
+			"timestamp": 1537527328,
 			"files": [ "Objects/Characters/SampleCharacter/firstperson.cdf" ],
 			"source": "",
 			"metadata": "Objects/Characters/SampleCharacter/firstperson.cdf.cryasset",
@@ -6094,7 +6132,7 @@
 			"type": "Texture",
 			"guid": "ef0e1036-71b5-6e67-703f-24a320933d0d",
 			"name": "mcg_ddna",
-			"timestamp": 1537359216,
+			"timestamp": 1537533887,
 			"files": [ "Objects/Characters/SampleCharacter/mcg_ddna.dds" ],
 			"source": "Objects/Characters/SampleCharacter/mcg_ddna.tif",
 			"metadata": "Objects/Characters/SampleCharacter/mcg_ddna.dds.cryasset",
@@ -6109,7 +6147,7 @@
 			"type": "Texture",
 			"guid": "b1f708a9-ae35-7cf8-ec9e-04ea33d02013",
 			"name": "mcg_diff",
-			"timestamp": 1537359220,
+			"timestamp": 1537533892,
 			"files": [ "Objects/Characters/SampleCharacter/mcg_diff.dds" ],
 			"source": "Objects/Characters/SampleCharacter/mcg_diff.tif",
 			"metadata": "Objects/Characters/SampleCharacter/mcg_diff.dds.cryasset",
@@ -6124,7 +6162,7 @@
 			"type": "Texture",
 			"guid": "f6d2a559-022b-e46d-7bc3-69d672ad21fa",
 			"name": "mcg_spec",
-			"timestamp": 1537359226,
+			"timestamp": 1537533896,
 			"files": [ "Objects/Characters/SampleCharacter/mcg_spec.dds" ],
 			"source": "Objects/Characters/SampleCharacter/mcg_spec.tif",
 			"metadata": "Objects/Characters/SampleCharacter/mcg_spec.dds.cryasset",
@@ -6139,7 +6177,7 @@
 			"type": "SkinnedMesh",
 			"guid": "dd30777d-1a0f-85fa-5e32-7d23f9723068",
 			"name": "motusBody",
-			"timestamp": 1537344098,
+			"timestamp": 1537527328,
 			"files": [ "Objects/Characters/SampleCharacter/motusBody.skin" ],
 			"source": "",
 			"metadata": "Objects/Characters/SampleCharacter/motusBody.skin.cryasset",
@@ -6161,7 +6199,7 @@
 			"type": "SkinnedMesh",
 			"guid": "5f5a38cb-8026-a80d-ad14-9f0bbd0dda3c",
 			"name": "motusBodyHeadless",
-			"timestamp": 1537344098,
+			"timestamp": 1537527328,
 			"files": [ "Objects/Characters/SampleCharacter/motusBodyHeadless.skin" ],
 			"source": "",
 			"metadata": "Objects/Characters/SampleCharacter/motusBodyHeadless.skin.cryasset",
@@ -6183,7 +6221,7 @@
 			"type": "Material",
 			"guid": "ce345eaf-3065-9da5-8e7e-cf414c119cf8",
 			"name": "motusBodyMAT",
-			"timestamp": 1537344098,
+			"timestamp": 1537527328,
 			"files": [ "Objects/Characters/SampleCharacter/motusBodyMAT.mtl" ],
 			"source": "",
 			"metadata": "Objects/Characters/SampleCharacter/motusBodyMAT.mtl.cryasset",
@@ -6210,7 +6248,7 @@
 			"type": "Skeleton",
 			"guid": "5ab92ed7-c502-473a-f64d-20189e4a0387",
 			"name": "skelProxy",
-			"timestamp": 1537344098,
+			"timestamp": 1537527328,
 			"files": [ "Objects/Characters/SampleCharacter/skelProxy.chr" ],
 			"source": "",
 			"metadata": "Objects/Characters/SampleCharacter/skelProxy.chr.cryasset",
@@ -6221,7 +6259,7 @@
 			"type": "Character",
 			"guid": "1eeb4b33-1400-3958-dae3-4f251bb7b79e",
 			"name": "thirdperson",
-			"timestamp": 1537344098,
+			"timestamp": 1537527328,
 			"files": [ "Objects/Characters/SampleCharacter/thirdperson.cdf" ],
 			"source": "",
 			"metadata": "Objects/Characters/SampleCharacter/thirdperson.cdf.cryasset",
@@ -6257,7 +6295,7 @@
 			"type": "Mesh",
 			"guid": "3dc7e1bf-633c-a074-5b0d-e97ec02b79bd",
 			"name": "defaultweapon",
-			"timestamp": 1537344098,
+			"timestamp": 1537527328,
 			"files": [ "Objects/Weapons/SampleWeapon/defaultweapon.cgf" ],
 			"source": "",
 			"metadata": "Objects/Weapons/SampleWeapon/defaultweapon.cgf.cryasset",
@@ -6278,7 +6316,7 @@
 			"type": "Material",
 			"guid": "c46c8697-00de-a27c-73c9-5023df21dc9b",
 			"name": "defaultWeapon",
-			"timestamp": 1537344098,
+			"timestamp": 1537527328,
 			"files": [ "Objects/Weapons/SampleWeapon/defaultWeapon.mtl" ],
 			"source": "",
 			"metadata": "Objects/Weapons/SampleWeapon/defaultWeapon.mtl.cryasset",
@@ -6294,7 +6332,7 @@
 			"type": "Mesh",
 			"guid": "852bc343-8f99-0e0b-92e9-4b8bda51e8f8",
 			"name": "motusweapon",
-			"timestamp": 1537344098,
+			"timestamp": 1537527328,
 			"files": [ "Objects/Weapons/SampleWeapon/motusweapon.cgf" ],
 			"source": "",
 			"metadata": "Objects/Weapons/SampleWeapon/motusweapon.cgf.cryasset",
@@ -6315,7 +6353,7 @@
 			"type": "Material",
 			"guid": "4d3839f0-bdc7-d221-cb4a-998f62eaa620",
 			"name": "motusWeaponMAT",
-			"timestamp": 1537344098,
+			"timestamp": 1537527328,
 			"files": [ "Objects/Weapons/SampleWeapon/motusWeaponMAT.mtl" ],
 			"source": "",
 			"metadata": "Objects/Weapons/SampleWeapon/motusWeaponMAT.mtl.cryasset",
@@ -6329,7 +6367,7 @@
 			"type": "Xml",
 			"guid": "80edea4b-97fe-b56b-27c1-f8a0672aac17",
 			"name": "Factions",
-			"timestamp": 1537344098,
+			"timestamp": 1537527328,
 			"files": [ "Scripts/AI/Factions.xml" ],
 			"source": "",
 			"metadata": "Scripts/AI/Factions.xml.cryasset",
@@ -6340,7 +6378,7 @@
 			"type": "Xml",
 			"guid": "8db627c7-033d-dbba-9a5b-a6cccc485d4a",
 			"name": "GameObjectSerializationOrder",
-			"timestamp": 1537344098,
+			"timestamp": 1537527328,
 			"files": [ "Scripts/GameObjectSerializationOrder.xml" ],
 			"source": "",
 			"metadata": "Scripts/GameObjectSerializationOrder.xml.cryasset",
@@ -6351,7 +6389,7 @@
 			"type": "Xml",
 			"guid": "49c38a34-94a6-cf45-1eda-eafc02adf5bb",
 			"name": "CompressionPolicy",
-			"timestamp": 1537344098,
+			"timestamp": 1537527328,
 			"files": [ "Scripts/network/CompressionPolicy.xml" ],
 			"source": "",
 			"metadata": "Scripts/network/CompressionPolicy.xml.cryasset",
@@ -6362,7 +6400,7 @@
 			"type": "Xml",
 			"guid": "fe409854-66a0-09de-9dc0-a2a13d3ad324",
 			"name": "EntityScheduler",
-			"timestamp": 1537344098,
+			"timestamp": 1537527328,
 			"files": [ "Scripts/network/EntityScheduler.xml" ],
 			"source": "",
 			"metadata": "Scripts/network/EntityScheduler.xml.cryasset",
@@ -6373,7 +6411,7 @@
 			"type": "Xml",
 			"guid": "36e8aa18-e6d0-a9a4-4e84-4da117c31768",
 			"name": "Scheduler",
-			"timestamp": 1537344098,
+			"timestamp": 1537527328,
 			"files": [ "Scripts/network/Scheduler.xml" ],
 			"source": "",
 			"metadata": "Scripts/network/Scheduler.xml.cryasset",
@@ -6384,29 +6422,24 @@
 			"type": "Level",
 			"guid": "fa2d1a3e-7a1d-566b-c18d-88eeb2c9d001",
 			"name": "testlevel",
-			"timestamp": 1537390191,
+			"timestamp": 1537611847,
 			"files": [ "TestLevel/TestLevel.level" ],
 			"source": "",
 			"metadata": "testlevel.level.cryasset",
 			"details": [ ],
 			"dependencies": [
-				{ "path": "%editor%/crydesigner_timeofday.xml", "usageCount": 0 },
-				{ "path": "%editor%/default_time_of_day.xml", "usageCount": 0 },
-				{ "path": "%editor%/leveltemplates.xml", "usageCount": 0 },
-				{ "path": "%editor%/mapscreenshotsettings.xml", "usageCount": 0 },
-				{ "path": "%editor%/mbttemplates.xml", "usageCount": 0 },
-				{ "path": "%editor%/modellingpanel.xml", "usageCount": 0 },
-				{ "path": "%editor%/objecttemplates.xml", "usageCount": 0 },
-				{ "path": "%editor%/propertyenumerations.xml", "usageCount": 0 },
-				{ "path": "%editor%/soundtemplates.xml", "usageCount": 0 },
-				{ "path": "%editor%/toolbox.xml", "usageCount": 0 },
-				{ "path": "%editor%/usertools.xml", "usageCount": 0 },
+				{ "path": "%editor%/objects/mtlobjects.mtl", "usageCount": 0 },
+				{ "path": "%editor%/objects/mtlsphere.cgf", "usageCount": 0 },
 				{
 					"path": "%engine%/engineassets/icons/averagememoryusage.dds",
 					"usageCount": 0
 				},
 				{
 					"path": "%engine%/engineassets/icons/highmemoryusage.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/icons/levelshadercachemiss.dds",
 					"usageCount": 0
 				},
 				{
@@ -6442,6 +6475,10 @@
 					"usageCount": 0
 				},
 				{
+					"path": "%engine%/engineassets/materials/material_default.mtl",
+					"usageCount": 0
+				},
+				{
 					"path": "%engine%/engineassets/materials/material_terrain_default.mtl",
 					"usageCount": 0
 				},
@@ -6458,7 +6495,99 @@
 					"usageCount": 0
 				},
 				{
+					"path": "%engine%/engineassets/objects/primitive_sphere.cgf",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/screenspace/areatex.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/screenspace/bokeh_pentagon.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/screenspace/grain_bayer_mul.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/screenspace/normalsfitting.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/screenspace/pointsonsphere4x4.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/screenspace/searchtex.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/shading/cloud_mie_phase_function.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/shading/defaultprobe_cm.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/shading/defaultprobe_cm_diff.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/shading/environmentbrdf.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/shading/generic_reflections.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/shading/layer_effect_anim_function.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/shading/sonarvisiongradient.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/shading/thermalvisiongradient.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/shading/waterfoam.dds",
+					"usageCount": 0
+				},
+				{
 					"path": "%engine%/engineassets/texturemsg/defaultnouvs.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/texturemsg/replaceme.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/texturemsg/shadercompiling.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/texturemsg/shadererror.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/alienhud_distortionimage.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/alienhud_noise1.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/caustics_sampler.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/default_cch.dds",
 					"usageCount": 0
 				},
 				{
@@ -6477,9 +6606,299 @@
 					"path": "%engine%/engineassets/textures/defaults/16_grey.dds",
 					"usageCount": 0
 				},
+				{
+					"path": "%engine%/engineassets/textures/detaildecalvariation.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/dither_2.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/dither_pattern_2d.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/fogvolshadowjitter.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/fresnel_sampler.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/fringe_map.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/frost_refl2.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/frozen/frost_noise3.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/frozen/frost_noise4.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/frozen/snow_spatter.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/fuzzy_pow_sampler_merged.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/glass_decalatlas_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/glass_decalatlas_diff.dds",
+					"usageCount": 0
+				},
 				{ "path": "%engine%/engineassets/textures/grey.dds", "usageCount": 0 },
+				{ "path": "%engine%/engineassets/textures/hex.dds", "usageCount": 0 },
+				{
+					"path": "%engine%/engineassets/textures/hex_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/hex_grad.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/hex_rand.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/interference.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/jumpnoisehighfrequency_x27y19.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/nightvis_grad.dds",
+					"usageCount": 0
+				},
+				{ "path": "%engine%/engineassets/textures/noise.dds", "usageCount": 0 },
+				{
+					"path": "%engine%/engineassets/textures/noise3d.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/oceanwaves_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/palette/cloak_interlation.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/palette/cloak_palette.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/palette/cloak_sparks.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/palette/cloak_transition.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/perlinnoise2d.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/perlinnoise_sum.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/perlinnoise_sum_small.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/perlinnoisederivatives.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/perlinnoisenormal_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/pixeltex.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/puddle_mask.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/rain_spatter.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/rainfall.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/rainfall_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple10_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple11_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple12_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple13_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple14_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple15_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple16_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple17_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple18_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple19_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple1_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple20_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple21_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple22_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple23_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple24_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple2_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple3_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple4_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple5_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple6_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple7_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple8_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/ripple/ripple9_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rain/surface_flow_ddn.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rotrandom.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/rotrandomcm.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/scratch.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/screen_noisy_bump.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/screenfrost_alpha.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/screenfrost_ddn.dds",
+					"usageCount": 0
+				},
 				{
 					"path": "%engine%/engineassets/textures/skys/night/half_moon.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/snowflakes.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/texelspermetergrad.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/vector_noise.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/water_droplets.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/water_gloss.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "%engine%/engineassets/textures/white_cm.dds",
 					"usageCount": 0
 				},
 				{
@@ -6686,40 +7105,48 @@
 				{ "path": "animations/motusanims/walk_bck_3p.caf", "usageCount": 0 },
 				{ "path": "animations/motusanims/walk_fwd_3p.caf", "usageCount": 0 },
 				{
-					"path": "d:/game_projects/purgatory/purgatory_cryengine/assets/libs/environmentpresets/testlevel.xml",
+					"path": "d:/gameprojects/purgatory-ce/purgatory_cryengine/assets/objects/buildings/purgatory001_arena.cgf",
 					"usageCount": 0
 				},
 				{
-					"path": "d:/game_projects/purgatory/purgatory_cryengine/assets/testlevel/filelist.xml",
+					"path": "d:/gameprojects/purgatory-ce/purgatory_cryengine/assets/objects/buildings/purgatoryarena.cgf",
 					"usageCount": 0
 				},
 				{
-					"path": "d:/game_projects/purgatory/purgatory_cryengine/assets/testlevel/leveldata/environment.xml",
+					"path": "d:/gameprojects/purgatory-ce/purgatory_cryengine/assets/objects/buildings/purgatoryarena.mtl",
 					"usageCount": 0
 				},
 				{
-					"path": "d:/game_projects/purgatory/purgatory_cryengine/assets/testlevel/leveldata/gametokens.xml",
+					"path": "d:/gameprojects/purgatory-ce/purgatory_cryengine/user/meshimporter/tmp_meshimporter_5ibydm/purgatoryarena.cgf",
 					"usageCount": 0
 				},
 				{
-					"path": "d:/game_projects/purgatory/purgatory_cryengine/assets/testlevel/leveldata/objectives.xml",
+					"path": "d:/gameprojects/purgatory-ce/purgatory_cryengine/user/meshimporter/tmp_meshimporter_a4fa36/purgatoryarena.cgf",
 					"usageCount": 0
 				},
-				{
-					"path": "d:/game_projects/purgatory/purgatory_cryengine/assets/testlevel/leveldata/terraintexture.xml",
-					"usageCount": 0
-				},
-				{
-					"path": "d:/game_projects/purgatory/purgatory_cryengine/assets/testlevel/leveldata/timeofday.xml",
-					"usageCount": 0
-				},
+				{ "path": "libs/environmentpresets/testlevel.xml", "usageCount": 0 },
 				{ "path": "materials/bullet.mtl", "usageCount": 0 },
+				{ "path": "objects/buildings/purgatory001_arena.cgf", "usageCount": 0 },
+				{ "path": "objects/buildings/purgatoryarena.cgf", "usageCount": 0 },
+				{ "path": "objects/buildings/purgatoryarena.mtl", "usageCount": 0 },
 				{
 					"path": "objects/characters/samplecharacter/mcg_ddna.dds",
 					"usageCount": 0
 				},
 				{
+					"path": "objects/characters/samplecharacter/mcg_diff.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "objects/characters/samplecharacter/mcg_spec.dds",
+					"usageCount": 0
+				},
+				{
 					"path": "objects/characters/samplecharacter/motusbody.skin",
+					"usageCount": 0
+				},
+				{
+					"path": "objects/characters/samplecharacter/motusbodymat.mtl",
 					"usageCount": 0
 				},
 				{
@@ -6738,10 +7165,6 @@
 					"path": "objects/weapons/sampleweapon/defaultweapon.mtl",
 					"usageCount": 0
 				},
-				{
-					"path": "objects/weapons/sampleweapon/motusweapon.cgf",
-					"usageCount": 0
-				},
 				{ "path": "scripts/ai/factions.xml", "usageCount": 0 }
 			]
 		},
@@ -6749,7 +7172,7 @@
 			"type": "Xml",
 			"guid": "7241f670-a1b0-541b-6429-ae693854130c",
 			"name": "filelist",
-			"timestamp": 1537362743,
+			"timestamp": 1537527328,
 			"files": [ "testlevel/filelist.xml" ],
 			"source": "",
 			"metadata": "testlevel/filelist.xml.cryasset",
@@ -6760,7 +7183,7 @@
 			"type": "Xml",
 			"guid": "af456def-3b7e-7bac-40d7-5d6a24f7c9bb",
 			"name": "Environment",
-			"timestamp": 1537362741,
+			"timestamp": 1537527328,
 			"files": [ "testlevel/leveldata/Environment.xml" ],
 			"source": "",
 			"metadata": "testlevel/leveldata/Environment.xml.cryasset",
@@ -6771,7 +7194,7 @@
 			"type": "Xml",
 			"guid": "9eb0fe64-6986-02c2-25ea-9a0f4ec47adb",
 			"name": "GameTokens",
-			"timestamp": 1537362741,
+			"timestamp": 1537527328,
 			"files": [ "testlevel/leveldata/GameTokens.xml" ],
 			"source": "",
 			"metadata": "testlevel/leveldata/GameTokens.xml.cryasset",
@@ -6782,7 +7205,7 @@
 			"type": "Xml",
 			"guid": "a8e688db-bb9d-3c48-5449-f2b5f270a99f",
 			"name": "Objectives",
-			"timestamp": 1537362742,
+			"timestamp": 1537527328,
 			"files": [ "testlevel/leveldata/Objectives.xml" ],
 			"source": "",
 			"metadata": "testlevel/leveldata/Objectives.xml.cryasset",
@@ -6793,7 +7216,7 @@
 			"type": "Xml",
 			"guid": "ce5421ac-52f7-6bc9-8501-ba76175ed9b6",
 			"name": "TerrainTexture",
-			"timestamp": 1537390192,
+			"timestamp": 1537527328,
 			"files": [ "testlevel/leveldata/TerrainTexture.xml" ],
 			"source": "",
 			"metadata": "testlevel/leveldata/TerrainTexture.xml.cryasset",
@@ -6804,7 +7227,7 @@
 			"type": "Xml",
 			"guid": "2ebaf29b-2b24-90bd-bb3f-89df0189cbdd",
 			"name": "TimeOfDay",
-			"timestamp": 1537362741,
+			"timestamp": 1537527328,
 			"files": [ "testlevel/leveldata/TimeOfDay.xml" ],
 			"source": "",
 			"metadata": "testlevel/leveldata/TimeOfDay.xml.cryasset",
@@ -6815,7 +7238,7 @@
 			"type": "Texture",
 			"guid": "38101b0f-04b3-58cb-c62a-ea795827a5e0",
 			"name": "environmentprobe1_cm",
-			"timestamp": 1537344098,
+			"timestamp": 1537527328,
 			"files": [ "Textures/cubemaps/example/environmentprobe1_cm.dds" ],
 			"source": "",
 			"metadata": "Textures/cubemaps/example/environmentprobe1_cm.dds.cryasset",
@@ -6830,7 +7253,7 @@
 			"type": "Texture",
 			"guid": "20d4e088-af30-df0e-0b78-1239b6ade872",
 			"name": "environmentprobe1_cm_diff",
-			"timestamp": 1537344098,
+			"timestamp": 1537527328,
 			"files": [ "Textures/cubemaps/example/environmentprobe1_cm_diff.dds" ],
 			"source": "",
 			"metadata": "Textures/cubemaps/example/environmentprobe1_cm_diff.dds.cryasset",

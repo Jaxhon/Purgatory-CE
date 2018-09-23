@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Mesh" guid="0c1b51e7-1091-57b2-29c7-f02ce4c8a4c6" source="PurgatoryArena.fbx">
+ <Files>
+  <File path="PurgatoryArena.cgf"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">3</Detail>
+  <Detail name="triangleCount">14164</Detail>
+  <Detail name="vertexCount">20699</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="1">./PurgatoryArena.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

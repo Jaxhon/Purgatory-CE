@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Mesh" guid="80f719f9-6e81-d586-c02c-08bf73c063ff" source="Character_One_09.fbx">
+ <Files>
+  <File path="Character_One_09.cgf"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">10</Detail>
+  <Detail name="triangleCount">5948</Detail>
+  <Detail name="vertexCount">3998</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="1">./Character_One_09.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

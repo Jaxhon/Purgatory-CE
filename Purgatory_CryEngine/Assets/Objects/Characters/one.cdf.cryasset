@@ -1,0 +1,9 @@
+<AssetMetadata version="0" type="Character" guid="236687a3-710c-6bd9-c903-1eb1ea632540">
+ <Files>
+  <File path="one.cdf"/>
+ </Files>
+ <Details />
+ <Dependencies>
+  <Path>./</Path>
+ </Dependencies>
+</AssetMetadata>

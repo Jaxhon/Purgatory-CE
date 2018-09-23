@@ -1,7 +1,7 @@
 <ObjectLayer>
  <Layer Name="Main" FullName="Main" GUID="ef8869c7-abfa-06c0-91e7-02848f33c6d3" Hidden="0" Frozen="0" Expanded="0" Type="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1">
   <LayerObjects>
-   <Object Type="Brush" Layer="Main" LayerGUID="ef8869c7-abfa-06c0-91e7-02848f33c6d3" Id="9e7cc151-d3ef-3b93-22a7-e05120b5b7e5" Name="Purgatory001_Arena-1" Pos="520,357,200" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/Buildings/Purgatory001_Arena.cgf" IgnoreVisareas="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610614280">
+   <Object Type="Brush" Layer="Main" LayerGUID="ef8869c7-abfa-06c0-91e7-02848f33c6d3" Id="378fc57c-231c-443b-e22d-1b66ed048e93" Name="PurgatoryArena-1" Pos="492,429,32" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/Buildings/PurgatoryArena.cgf" IgnoreVisareas="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610614280">
     <CollisionFiltering />
    </Object>
   </LayerObjects>

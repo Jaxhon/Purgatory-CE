@@ -1,4 +1,7 @@
 {
+    "Asset Browser": {
+        "RecentImportPath": "D:/GameProjects/Purgatory-CE/Purgatory_CryEngine/Assets/Objects/Characters/"
+    },
     "CAssetPicker": {
         "Layout": {
             "detailsView": {
@@ -158,10 +161,10 @@
             "foldersSplitter": "AAAA/wAAAAEAAAACAAABAAAAAwAB/////wEAAAABAA==",
             "foldersView": {
                 "selected": [
-                    "Objects/Buildings"
+                    "Objects/Characters"
                 ]
             },
-            "mainViewSplitter": "AAAA/wAAAAEAAAAC/////wAAAQAB/////wEAAAABAA==",
+            "mainViewSplitter": "AAAA/wAAAAEAAAACAAAARAAAAQAB/////wEAAAABAA==",
             "recursiveSearch": true,
             "recursiveView": false,
             "showFolders": true,
@@ -174,15 +177,26 @@
             "viewMode": 1
         }
     },
+    "Dependency Graph": {
+        "Recent Files": [
+            "Objects/Characters/Character_One_09.cgf.cryasset"
+        ]
+    },
     "EngineFileDialog": {
         "favorites": [
         ],
         "history": [
-            "/Objects/Buildings"
+            "/Objects/Buildings",
+            "/Objects/Characters"
         ]
     },
     "FavoritesHelper": {
         "Asset Browser": null
+    },
+    "Import Mesh": {
+        "Recent Files": [
+            "Objects/Characters/Character_One_09.cgf.cryasset"
+        ]
     },
     "Level Editor": {
         "Recent Files": [
